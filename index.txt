@@ -1,0 +1,4991 @@
+1. a, an indefinite article 
+2. abandon v. 
+3. ability n. 
+4. able adj. 
+5. abolish v. 
+6. abortion n. 
+7. about prep., adv. 
+8. above prep., adv. 
+9. abroad adv. 
+10. absence n. 
+11. absent adj. 
+12. absolute adj. 
+13. absolutely adv. 
+14. absorb v. 
+15. abstract adj. 
+16. absurd adj. 
+17. abuse n., v. 
+18. academic adj., n. 
+19. academy n. 
+20. accelerate v. 
+21. accent n. 
+22. accept v. 
+23. acceptable adj. 
+24. acceptance n. 
+25. access n., v. 
+26. accessible adj. 
+27. accident n. 
+28. accidentally adv. 
+29. accommodate v. 
+30. accommodation n. 
+31. accompany v. 
+32. accomplish v. 
+33. accomplishment n. 
+34. according to prep. 
+35. accordingly adv. 
+36. account n. , v. 
+37. accountability n. 
+38. accountable adj. 
+39. accountant n. 
+40. accumulate v. 
+41. accumulation n. 
+42. accuracy n. 
+43. accurate adj. 
+44. accurately adv. 
+45. accusation n. 
+46. accuse v. 
+47. accused n. 
+48. achieve v. 
+49. achievement n. 
+50. acid n. , adj. 
+51. acknowledge v. 
+52. acquire v. 
+53. acquisition n. 
+54. acre n. 
+55. across prep., adv. 
+56. act v. , n. 
+57. action n. 
+58. activate v. 
+59. activation n. 
+60. active adj. 
+61. activist n. 
+62. activity n. 
+63. actor n. 
+64. actress n. 
+65. actual adj. 
+66. actually adv. 
+67. acute adj. 
+68. ad n. 
+69. adapt v. 
+70. adaptation n. 
+71. add v. 
+72. addiction n. 
+73. addition n. 
+74. additional adj. 
+75. additionally adv. 
+76. address n. , v. 
+77. adequate adj. 
+78. adequately adv. 
+79. adhere v. 
+80. adjacent adj. 
+81. adjust v. 
+82. adjustment n. 
+83. administer v. 
+84. administration n. 
+85. administrative adj. 
+86. administrator n. 
+87. admire v. 
+88. admission n. 
+89. admit v. 
+90. adolescent n. 
+91. adopt v. 
+92. adoption n. 
+93. adult n. , adj. 
+94. advance n., v., adj. 
+95. advanced adj. 
+96. advantage n. 
+97. adventure n. 
+98. adverse adj. 
+99. advertise v. 
+100. advertisement n. 
+101. advertising n. 
+102. advice n. 
+103. advise v. 
+104. advocate n., v. 
+105. aesthetic adj. 
+106. affair n. 
+107. affect v. 
+108. affection n. 
+109. afford v. 
+110. affordable adj. 
+111. afraid adj. 
+112. after prep. , conj., adv. 
+113. aftermath n. 
+114. afternoon n. 
+115. afterwards adv. 
+116. again adv. 
+117. against prep. 
+118. age n. , v. 
+119. aged adj. 
+120. agency n. 
+121. agenda n. 
+122. agent n. 
+123. aggression n. 
+124. aggressive adj. 
+125. ago adv. 
+126. agree v. 
+127. agreement n. 
+128. agricultural adj. 
+129. agriculture n. 
+130. ah exclam. 
+131. ahead adv. 
+132. aid n., v. 
+133. aide n. 
+134. AIDS n. 
+135. aim v., n. 
+136. air n. 
+137. aircraft n. 
+138. airline n. 
+139. airport n. 
+140. alarm n. , v. 
+141. album n. 
+142. alcohol n. 
+143. alcoholic adj. 
+144. alert v., n., adj. 
+145. alien n. , adj. 
+146. align v. 
+147. alignment n. 
+148. alike adv., adj. 
+149. alive adj. 
+150. all det., pron. , adv. 
+151. all right adj./adv., exclam. 
+152. allegation n. 
+153. allege v. 
+154. allegedly adv. 
+155. alliance n. 
+156. allocate v. 
+157. allocation n. 
+158. allow v. 
+159. allowance n. 
+160. ally n. 
+161. almost adv. 
+162. alone adj./adv. 
+163. along prep., adv. 
+164. alongside prep. 
+165. already adv. 
+166. also adv. 
+167. alter v. 
+168. alternative n. , adj. 
+169. although conj. 
+170. altogether adv. 
+171. aluminum n. 
+172. always adv. 
+173. amateur adj., n. 
+174. amazed adj. 
+175. amazing adj. 
+176. ambassador n. 
+177. ambition n. 
+178. ambitious adj. 
+179. ambulance n. 
+180. amend v. 
+181. amendment n. 
+182. amid prep. 
+183. among prep. 
+184. amount n. , v. 
+185. amusing adj. 
+186. analogy n. 
+187. analyse v. 
+188. analysis n. 
+189. analyst n. 
+190. ancestor n. 
+191. anchor n. 
+192. ancient adj. 
+193. and conj. 
+194. angel n. 
+195. anger n. 
+196. angle n. 
+197. angry adj. 
+198. animal n. 
+199. animation n. 
+200. ankle n. 
+201. anniversary n. 
+202. announce v. 
+203. announcement n. 
+204. annoy v. 
+205. annoyed adj. 
+206. annoying adj. 
+207. annual adj. 
+208. annually adv. 
+209. anonymous adj. 
+210. another det./pron. 
+211. answer n., v. 
+212. anticipate v. 
+213. anxiety n. 
+214. anxious adj. 
+215. any det., pron. , adv. 
+216. any more adv. 
+217. anybody pron. 
+218. anyone pron. 
+219. anything pron. 
+220. anyway adv. 
+221. anywhere adv., pron. 
+222. apart adv. 
+223. apartment n. 
+224. apologize v. 
+225. apology n. 
+226. app n. 
+227. apparatus n. 
+228. apparel n. 
+229. apparent adj. 
+230. apparently adv. 
+231. appeal n., v. 
+232. appealing adj. 
+233. appear v. 
+234. appearance n. 
+235. appetite n. 
+236. applaud v. 
+237. apple n. 
+238. applicable adj. 
+239. applicant n. 
+240. application n. 
+241. apply v. 
+242. appoint v. 
+243. appointment n. 
+244. appreciate v. 
+245. appreciation n. 
+246. approach n., v. 
+247. appropriate adj. 
+248. appropriately adv. 
+249. approval n. 
+250. approve v. 
+251. approximately adv. 
+252. April n. 
+253. arbitrary adj. 
+254. architect n. 
+255. architectural adj. 
+256. architecture n. 
+257. archive n. 
+258. area n. 
+259. arena n. 
+260. argue v. 
+261. argument n. 
+262. arise v. 
+263. arm n. 
+264. arm v. 
+265. armed adj. 
+266. arms n. 
+267. army n. 
+268. around prep., adv. 
+269. arrange v. 
+270. arrangement n. 
+271. array n. 
+272. arrest v., n. 
+273. arrival n. 
+274. arrive v. 
+275. arrow n. 
+276. art n. 
+277. article n. 
+278. articulate v. 
+279. artificial adj. 
+280. artist n. 
+281. artistic adj. 
+282. artwork n. 
+283. as prep. , adv., conj. 
+284. ash n. 
+285. ashamed adj. 
+286. ask v. 
+287. asleep adj. 
+288. aspect n. 
+289. aspiration n. 
+290. aspire v. 
+291. assassination n. 
+292. assault n., v. 
+293. assemble v. 
+294. assembly n. 
+295. assert v. 
+296. assertion n. 
+297. assess v. 
+298. assessment n. 
+299. asset n. 
+300. assign v. 
+301. assignment n. 
+302. assist v. 
+303. assistance n. 
+304. assistant n., adj. 
+305. associate v. 
+306. associated adj. 
+307. association n. 
+308. assume v. 
+309. assumption n. 
+310. assurance n. 
+311. assure v. 
+312. astonishing adj. 
+313. asylum n. 
+314. at prep. 
+315. athlete n. 
+316. athletic adj. 
+317. atmosphere n. 
+318. atrocity n. 
+319. attach v. 
+320. attachment n. 
+321. attack n., v. 
+322. attain v. 
+323. attempt n., v. 
+324. attend v. 
+325. attendance n. 
+326. attention n., exclam. 
+327. attitude n. 
+328. attract v. 
+329. attraction n. 
+330. attractive adj. 
+331. attribute v., n. 
+332. auction n. 
+333. audience n. 
+334. audio adj. 
+335. audit n. 
+336. August n. 
+337. aunt n. 
+338. authentic adj. 
+339. author n. 
+340. authority n. 
+341. authorize v. 
+342. auto n. 
+343. autonomy n. 
+344. autumn n. 
+345. availability n. 
+346. available adj. 
+347. average adj., n. , v. 
+348. avoid v. 
+349. await v. 
+350. award n. , v. 
+351. aware adj. 
+352. awareness n. 
+353. away adv. 
+354. awful adj. 
+355. awkward adj. 
+356. baby n. 
+357. back n., adv. , adj. , v. 
+358. backdrop n. 
+359. background n. 
+360. backing n. 
+361. backup n. 
+362. backwards adv. 
+363. bacteria n. 
+364. bad adj. 
+365. badge n. 
+366. badly adv. 
+367. bag n. 
+368. bail n. 
+369. bake v. 
+370. balance n., v. 
+371. balanced adj. 
+372. ball n. 
+373. ballet n. 
+374. balloon n. 
+375. ballot n. 
+376. ban v., n. 
+377. banana n. 
+378. band n. 
+379. bank (money) n. 
+380. bank (river) n. 
+381. bankruptcy n. 
+382. banner n. 
+383. bar n. , v. 
+384. bare adj. 
+385. barely adv. 
+386. bargain n. 
+387. barrel n. 
+388. barrier n. 
+389. base n., v. 
+390. baseball n. 
+391. based adj. 
+392. basement n. 
+393. basic adj. 
+394. basically adv. 
+395. basis n. 
+396. basket n. 
+397. basketball n. 
+398. bass1 n. 
+399. bat n. , v. 
+400. bath n. 
+401. bathroom n. 
+402. battery n. 
+403. battle n. , v. 
+404. battlefield n. 
+405. bay n. 
+406. be v., auxiliary v. 
+407. beach n. 
+408. beam n. 
+409. bean n. 
+410. bear (animal) n. 
+411. bear (deal with) v. 
+412. beast n. 
+413. beat v. , n. 
+414. beautiful adj. 
+415. beauty n. 
+416. because conj. 
+417. become v. 
+418. bed n. 
+419. bedroom n. 
+420. bee n. 
+421. beef n. 
+422. beer n. 
+423. before prep. , conj., adv. 
+424. beg v. 
+425. begin v. 
+426. beginning n. 
+427. behalf n. 
+428. behave v. 
+429. behavioral adj. 
+430. behaviour n. 
+431. behind prep., adv. 
+432. being n. 
+433. belief n. 
+434. believe v. 
+435. bell n. 
+436. belong v. 
+437. beloved adj. 
+438. below adv., prep. 
+439. belt n. 
+440. bench n. 
+441. benchmark n. 
+442. bend v., n. 
+443. beneath prep. 
+444. beneficial adj. 
+445. beneficiary n. 
+446. benefit n. , v. 
+447. bent adj. 
+448. beside prep. 
+449. besides prep., adv. 
+450. best adj. , adv., n. 
+451. bet v., n. 
+452. betray v. 
+453. better adj. , adv. , n. 
+454. between prep. , adv. 
+455. beverage n. 
+456. beyond prep., adv. 
+457. bias n. 
+458. bicycle n. 
+459. bid n., v. 
+460. big adj. 
+461. bike n. 
+462. bill n. , v. 
+463. billion number 
+464. bin n. 
+465. bind v. 
+466. biography n. 
+467. biological adj. 
+468. biology n. 
+469. bird n. 
+470. birth n. 
+471. birthday n. 
+472. biscuit n. 
+473. bishop n. 
+474. bit n. 
+475. bite v., n. 
+476. bitter adj. 
+477. bizarre adj. 
+478. black adj., n. 
+479. blade n. 
+480. blame v., n. 
+481. blank adj., n. 
+482. blanket n. 
+483. blast n., v. 
+484. bleed v. 
+485. blend v., n. 
+486. bless v. 
+487. blessing n. 
+488. blind adj. 
+489. block n., v. 
+490. blog n. 
+491. blonde adj. 
+492. blood n. 
+493. blow n. 
+494. blow v. 
+495. blue adj., n. 
+496. board n. , v. 
+497. boast v. 
+498. boat n. 
+499. body n. 
+500. boil v. 
+501. bold adj. 
+502. bomb n., v. 
+503. bombing n. 
+504. bond n. 
+505. bone n. 
+506. bonus n. 
+507. book n. , v. 
+508. booking n. 
+509. boom n. 
+510. boost v., n. 
+511. boot n. 
+512. border n. , v. 
+513. bored adj. 
+514. boring adj. 
+515. born v. 
+516. borrow v. 
+517. boss n. 
+518. both det./pron. 
+519. bother v. 
+520. bottle n. 
+521. bottom n., adj. 
+522. bounce v. 
+523. bound adj. 
+524. boundary n. 
+525. bow1 v., n. 
+526. bowl n. 
+527. box n. 
+528. boy n. 
+529. boyfriend n. 
+530. brain n. 
+531. branch n. 
+532. brand n., v. 
+533. brave adj. 
+534. breach n., v. 
+535. bread n. 
+536. break v., n. 
+537. breakdown n. 
+538. breakfast n. 
+539. breakthrough n. 
+540. breast n. 
+541. breath n. 
+542. breathe v. 
+543. breathing n. 
+544. breed v., n. 
+545. brick n. 
+546. bride n. 
+547. bridge n. 
+548. brief adj. 
+549. briefly adv. 
+550. bright adj. 
+551. brilliant adj. 
+552. bring v. 
+553. broad adj. 
+554. broadband n. 
+555. broadcast v., n. 
+556. broadcaster n. 
+557. broadly adv. 
+558. broken adj. 
+559. brother n. 
+560. brown adj., n. 
+561. browser n. 
+562. brush v., n. 
+563. brutal adj. 
+564. bubble n. 
+565. buck n. 
+566. buddy n. 
+567. budget n. 
+568. buffer n. 
+569. bug n. 
+570. build v. 
+571. building n. 
+572. bulk n. 
+573. bullet n. 
+574. bunch n. 
+575. burden n. 
+576. bureaucracy n. 
+577. burial n. 
+578. burn v. , n. 
+579. burst v. 
+580. bury v. 
+581. bus n. 
+582. bush n. 
+583. business n. 
+584. businessman n. 
+585. busy adj. 
+586. but conj. , prep. 
+587. butter n. 
+588. button n. 
+589. buy v. 
+590. by prep. , adv. 
+591. bye exclam. 
+592. cabin n. 
+593. cabinet n. 
+594. cable n. 
+595. cafe n. 
+596. cake n. 
+597. calculate v. 
+598. calculation n. 
+599. call v., n. 
+600. calm adj., v., n. 
+601. camera n. 
+602. camp n., v. 
+603. campaign n., v. 
+604. camping n. 
+605. campus n. 
+606. can1 modal v. 
+607. can2 n. 
+608. canal n. 
+609. cancel v. 
+610. cancer n. 
+611. candidate n. 
+612. candle n. 
+613. cannot v. 
+614. canvas n. 
+615. cap n. 
+616. capability n. 
+617. capable adj. 
+618. capacity n. 
+619. capital n., adj. 
+620. capitalism n. 
+621. capitalist adj. 
+622. captain n. 
+623. capture v., n. 
+624. car n. 
+625. carbon n. 
+626. card n. 
+627. care n., v. 
+628. career n. 
+629. careful adj. 
+630. carefully adv. 
+631. careless adj. 
+632. cargo n. 
+633. carpet n. 
+634. carriage n. 
+635. carrot n. 
+636. carry v. 
+637. cartoon n. 
+638. carve v. 
+639. case n. 
+640. cash n. 
+641. casino n. 
+642. cast n., v. 
+643. castle n. 
+644. casual adj. 
+645. casualty n. 
+646. cat n. 
+647. catalog n. 
+648. catch v. , n. 
+649. category n. 
+650. cater v. 
+651. cattle n. 
+652. cause n., v. 
+653. caution n. 
+654. cautious adj. 
+655. cave n. 
+656. CD n. 
+657. cease v. 
+658. ceiling n. 
+659. celebrate v. 
+660. celebration n. 
+661. celebrity n. 
+662. cell n. 
+663. cemetery n. 
+664. cent n. 
+665. central adj. 
+666. centre n. , v. 
+667. century n. 
+668. ceremony n. 
+669. certain adj. 
+670. certainly adv. 
+671. certainty n. 
+672. certificate n. 
+673. chain n. , v. 
+674. chair n. , v. 
+675. chairman n. 
+676. challenge n. , v. 
+677. challenging adj. 
+678. chamber n. 
+679. champion n. 
+680. championship n. 
+681. chance n. 
+682. change v., n. 
+683. channel n. 
+684. chaos n. 
+685. chapter n. 
+686. character n. 
+687. characteristic n., adj. 
+688. characterize v. 
+689. charge n., v. 
+690. charity n. 
+691. charm n. 
+692. charming adj. 
+693. chart n. , v. 
+694. charter n. 
+695. chase v., n. 
+696. chat v., n. 
+697. cheap adj. , adv. 
+698. cheat v., n. 
+699. check v. , n. 
+700. cheek n. 
+701. cheer v., n. 
+702. cheerful adj. 
+703. cheese n. 
+704. chef n. 
+705. chemical adj., n. 
+706. chemistry n. 
+707. chest n. 
+708. chicken n. 
+709. chief adj., n. 
+710. child n. 
+711. childhood n. 
+712. chip n. 
+713. chocolate n. 
+714. choice n. 
+715. choir n. 
+716. choose v. 
+717. chop v. 
+718. chronic adj. 
+719. chunk n. 
+720. church n. 
+721. cigarette n. 
+722. cinema n. 
+723. circle n., v. 
+724. circuit n. 
+725. circulate v. 
+726. circulation n. 
+727. circumstance n. 
+728. cite v. 
+729. citizen n. 
+730. citizenship n. 
+731. city n. 
+732. civic adj. 
+733. civil adj. 
+734. civilian n., adj. 
+735. civilization n. 
+736. claim v., n. 
+737. clarify v. 
+738. clarity n. 
+739. clash n. 
+740. class n. 
+741. classic adj., n. 
+742. classical adj. 
+743. classification n. 
+744. classify v. 
+745. classroom n. 
+746. clause n. 
+747. clean adj., v. 
+748. clear adj. , v. 
+749. clearly adv. 
+750. clever adj. 
+751. click v., n. 
+752. client n. 
+753. cliff n. 
+754. climate n. 
+755. climb v. , n. 
+756. cling v. 
+757. clinic n. 
+758. clinical adj. 
+759. clip n. 
+760. clock n. 
+761. close1 v. , n. 
+762. close2 adj. , adv. 
+763. closed adj. 
+764. closely adv. 
+765. closure n. 
+766. cloth n. 
+767. clothes n. 
+768. clothing n. 
+769. cloud n. 
+770. club n. 
+771. clue n. 
+772. cluster n. 
+773. coach n. , v. 
+774. coal n. 
+775. coalition n. 
+776. coast n. 
+777. coastal adj. 
+778. coat n. 
+779. cocktail n. 
+780. code n. 
+781. coffee n. 
+782. cognitive adj. 
+783. coin n. 
+784. coincide v. 
+785. coincidence n. 
+786. cold adj., n. 
+787. collaborate v. 
+788. collaboration n. 
+789. collapse v., n. 
+790. colleague n. 
+791. collect v. 
+792. collection n. 
+793. collective adj. 
+794. collector n. 
+795. college n. 
+796. collision n. 
+797. colonial adj. 
+798. colony n. 
+799. colorful adj. 
+800. colour n. 
+801. coloured adj. 
+802. column n. 
+803. columnist n. 
+804. combat n., v. 
+805. combination n. 
+806. combine v. 
+807. come v. 
+808. comedy n. 
+809. comfort n., v. 
+810. comfortable adj. 
+811. comic adj., n. 
+812. command n., v. 
+813. commander n. 
+814. commence v. 
+815. comment n. , v. 
+816. commentary n. 
+817. commentator n. 
+818. commerce n. 
+819. commercial adj., n. 
+820. commission n., v. 
+821. commissioner n. 
+822. commit v. 
+823. commitment n. 
+824. committee n. 
+825. commodity n. 
+826. common adj., n. 
+827. commonly adv. 
+828. communicate v. 
+829. communication n. 
+830. communist adj. 
+831. community n. 
+832. companion n. 
+833. company n. 
+834. comparable adj. 
+835. comparative adj. 
+836. compare v. 
+837. comparison n. 
+838. compassion n. 
+839. compel v. 
+840. compelling adj. 
+841. compensate v. 
+842. compensation n. 
+843. compete v. 
+844. competence n. 
+845. competent adj. 
+846. competition n. 
+847. competitive adj. 
+848. competitor n. 
+849. compile v. 
+850. complain v. 
+851. complaint n. 
+852. complement v. 
+853. complete adj., v. 
+854. completely adv. 
+855. completion n. 
+856. complex adj. , n. 
+857. complexity n. 
+858. compliance n. 
+859. complicated adj. 
+860. complication n. 
+861. comply v. 
+862. component n. 
+863. compose v. 
+864. composer n. 
+865. composition n. 
+866. compound n. 
+867. comprehensive adj. 
+868. comprise v. 
+869. compromise n., v. 
+870. compulsory adj. 
+871. compute v. 
+872. computer n. 
+873. conceal v. 
+874. concede v. 
+875. conceive v. 
+876. concentrate v. 
+877. concentration n. 
+878. concept n. 
+879. conception n. 
+880. concern n., v. 
+881. concerned adj. 
+882. concert n. 
+883. concession n. 
+884. conclude v. 
+885. conclusion n. 
+886. concrete adj., n. 
+887. condemn v. 
+888. condition n. 
+889. conduct v., n. 
+890. confer v. 
+891. conference n. 
+892. confess v. 
+893. confession n. 
+894. confidence n. 
+895. confident adj. 
+896. configuration n. 
+897. confine v. 
+898. confirm v. 
+899. confirmation n. 
+900. conflict n., v. 
+901. confront v. 
+902. confrontation n. 
+903. confuse v. 
+904. confused adj. 
+905. confusing adj. 
+906. confusion n. 
+907. congratulate v. 
+908. congregation n. 
+909. congressional adj. 
+910. connect v. 
+911. connected adj. 
+912. connection n. 
+913. conquer v. 
+914. conscience n. 
+915. conscious adj. 
+916. consciousness n. 
+917. consecutive adj. 
+918. consensus n. 
+919. consent n., v. 
+920. consequence n. 
+921. consequently adv. 
+922. conservation n. 
+923. conservative adj., n. 
+924. conserve v. 
+925. consider v. 
+926. considerable adj. 
+927. considerably adv. 
+928. consideration n. 
+929. consist v. 
+930. consistency n. 
+931. consistent adj. 
+932. consistently adv. 
+933. consolidate v. 
+934. conspiracy n. 
+935. constant adj. 
+936. constantly adv. 
+937. constitute v. 
+938. constitution n. 
+939. constitutional adj. 
+940. constraint n. 
+941. construct v. 
+942. construction n. 
+943. consult v. 
+944. consultant n. 
+945. consultation n. 
+946. consume v. 
+947. consumer n. 
+948. consumption n. 
+949. contact n., v. 
+950. contain v. 
+951. container n. 
+952. contemplate v. 
+953. contemporary adj. 
+954. contempt n. 
+955. contend v. 
+956. contender n. 
+957. content1 n. 
+958. content2 adj. 
+959. contention n. 
+960. contest n., v. 
+961. context n. 
+962. continent n. 
+963. continually adv. 
+964. continue v. 
+965. continuous adj. 
+966. contract n., v. 
+967. contractor n. 
+968. contradiction n. 
+969. contrary adj., n. 
+970. contrast n., v. 
+971. contribute v. 
+972. contribution n. 
+973. contributor n. 
+974. control n., v. 
+975. controversial adj. 
+976. controversy n. 
+977. convenience n. 
+978. convenient adj. 
+979. convention n. 
+980. conventional adj. 
+981. conversation n. 
+982. conversion n. 
+983. convert v. 
+984. convey v. 
+985. convict v. 
+986. conviction n. 
+987. convince v. 
+988. convinced adj. 
+989. convincing adj. 
+990. cook v. , n. 
+991. cooker n. 
+992. cooking n. 
+993. cool adj. , v. 
+994. cooperate v. 
+995. cooperative adj. 
+996. coordinate v. 
+997. coordination n. 
+998. coordinator n. 
+999. cop n. 
+1000. cope v. 
+1001. copper n. 
+1002. copy n., v. 
+1003. copyright n. 
+1004. core n., adj. 
+1005. corner n. 
+1006. corporate adj. 
+1007. corporation n. 
+1008. correct adj., v. 
+1009. correction n. 
+1010. correctly adv. 
+1011. correlate v. 
+1012. correlation n. 
+1013. correspond v. 
+1014. correspondence n. 
+1015. correspondent n. 
+1016. corresponding adj. 
+1017. corridor n. 
+1018. corrupt adj. 
+1019. corruption n. 
+1020. cost n., v. 
+1021. costly adj. 
+1022. costume n. 
+1023. cottage n. 
+1024. cotton n. 
+1025. could modal v. 
+1026. council n. 
+1027. councilor n. 
+1028. counseling n. 
+1029. counselor n. 
+1030. count v. , n. 
+1031. counter (argue against) v. 
+1032. counter (long flat surface) n. 
+1033. counterpart n. 
+1034. countless adj. 
+1035. country n. 
+1036. countryside n. 
+1037. county n. 
+1038. coup n. 
+1039. couple n. 
+1040. courage n. 
+1041. course n. 
+1042. court n. 
+1043. courtesy n. 
+1044. cousin n. 
+1045. cover v. , n. 
+1046. coverage n. 
+1047. covered adj. 
+1048. cow n. 
+1049. cowboy n. 
+1050. crack v., n. 
+1051. craft n. , v. 
+1052. crash n., v. 
+1053. crawl v. 
+1054. crazy adj. 
+1055. cream n. , adj. 
+1056. create v. 
+1057. creation n. 
+1058. creative adj. 
+1059. creativity n. 
+1060. creator n. 
+1061. creature n. 
+1062. credibility n. 
+1063. credible adj. 
+1064. credit n. , v. 
+1065. creep v. 
+1066. crew n. 
+1067. crime n. 
+1068. criminal n. , adj. 
+1069. crisis n. 
+1070. criterion n. 
+1071. critic n. 
+1072. critical adj. 
+1073. critically adv. 
+1074. criticism n. 
+1075. criticize v. 
+1076. critique n. 
+1077. crop n. 
+1078. cross v., n. 
+1079. crowd n. 
+1080. crowded adj. 
+1081. crown n. 
+1082. crucial adj. 
+1083. crude adj. 
+1084. cruel adj. 
+1085. cruise n., v. 
+1086. crush v. 
+1087. cry v. , n. 
+1088. crystal n. 
+1089. cue n. 
+1090. cult n., adj. 
+1091. cultivate v. 
+1092. cultural adj. 
+1093. culture n. 
+1094. cup n. 
+1095. cupboard n. 
+1096. cure v., n. 
+1097. curiosity n. 
+1098. curious adj. 
+1099. curly adj. 
+1100. currency n. 
+1101. current adj. , n. 
+1102. currently adv. 
+1103. curriculum n. 
+1104. curtain n. 
+1105. curve n., v. 
+1106. curved adj. 
+1107. custody n. 
+1108. custom n. 
+1109. customer n. 
+1110. cut v. , n. 
+1111. cute adj. 
+1112. cutting n. 
+1113. cycle n., v. 
+1114. cynical adj. 
+1115. dad n. 
+1116. daily adj. , adv. 
+1117. dairy n., adj. 
+1118. dam n. 
+1119. damage n., v. 
+1120. damaging adj. 
+1121. dance n., v. 
+1122. dancer n. 
+1123. dancing n. 
+1124. danger n. 
+1125. dangerous adj. 
+1126. dare v. 
+1127. dark adj. , n. 
+1128. darkness n. 
+1129. data n. 
+1130. database n. 
+1131. date n. , v. 
+1132. daughter n. 
+1133. dawn n. 
+1134. day n. 
+1135. dead adj. 
+1136. deadline n. 
+1137. deadly adj. 
+1138. deal v. , n. 
+1139. dealer n. 
+1140. dear adj. , exclam. 
+1141. death n. 
+1142. debate n., v. 
+1143. debris n. 
+1144. debt n. 
+1145. debut n. 
+1146. decade n. 
+1147. December n. 
+1148. decent adj. 
+1149. decide v. 
+1150. decision n. 
+1151. decision-making n. 
+1152. decisive adj. 
+1153. deck n. 
+1154. declaration n. 
+1155. declare v. 
+1156. decline v., n. 
+1157. decorate v. 
+1158. decoration n. 
+1159. decrease v., n. 
+1160. dedicated adj. 
+1161. dedication n. 
+1162. deed n. 
+1163. deem v. 
+1164. deep adj. , adv. 
+1165. deeply adv. 
+1166. default n. 
+1167. defeat v., n. 
+1168. defect n. 
+1169. defence n. 
+1170. defend v. 
+1171. defender n. 
+1172. defensive adj. 
+1173. deficiency n. 
+1174. deficit n. 
+1175. define v. 
+1176. definite adj. 
+1177. definitely adv. 
+1178. definition n. 
+1179. defy v. 
+1180. degree n. 
+1181. delay v., n. 
+1182. delegate n. 
+1183. delegation n. 
+1184. delete v. 
+1185. deliberate adj. 
+1186. deliberately adv. 
+1187. delicate adj. 
+1188. delicious adj. 
+1189. delight v., n. 
+1190. delighted adj. 
+1191. deliver v. 
+1192. delivery n. 
+1193. demand n., v. 
+1194. democracy n. 
+1195. democratic adj. 
+1196. demon n. 
+1197. demonstrate v. 
+1198. demonstration n. 
+1199. denial n. 
+1200. denounce v. 
+1201. dense adj. 
+1202. density n. 
+1203. dentist n. 
+1204. deny v. 
+1205. depart v. 
+1206. department n. 
+1207. departure n. 
+1208. depend v. 
+1209. dependence n. 
+1210. dependent adj. 
+1211. depict v. 
+1212. deploy v. 
+1213. deployment n. 
+1214. deposit n., v. 
+1215. depressed adj. 
+1216. depressing adj. 
+1217. depression n. 
+1218. deprive v. 
+1219. depth n. 
+1220. deputy n. 
+1221. derive v. 
+1222. descend v. 
+1223. descent n. 
+1224. describe v. 
+1225. description n. 
+1226. desert n. , v. 
+1227. deserve v. 
+1228. design n., v. 
+1229. designate v. 
+1230. designer n. 
+1231. desirable adj. 
+1232. desire n., v. 
+1233. desk n. 
+1234. desktop n. 
+1235. desperate adj. 
+1236. desperately adv. 
+1237. despite prep. 
+1238. destination n. 
+1239. destroy v. 
+1240. destruction n. 
+1241. destructive adj. 
+1242. detail n. , v. 
+1243. detailed adj. 
+1244. detain v. 
+1245. detect v. 
+1246. detection n. 
+1247. detective n. 
+1248. detention n. 
+1249. deteriorate v. 
+1250. determination n. 
+1251. determine v. 
+1252. determined adj. 
+1253. devastate v. 
+1254. develop v. 
+1255. development n. 
+1256. device n. 
+1257. devil n. 
+1258. devise v. 
+1259. devote v. 
+1260. diagnose v. 
+1261. diagnosis n. 
+1262. diagram n. 
+1263. dialogue n. 
+1264. diamond n. 
+1265. diary n. 
+1266. dictate v. 
+1267. dictator n. 
+1268. dictionary n. 
+1269. die v. 
+1270. diet n. 
+1271. differ v. 
+1272. difference n. 
+1273. different adj. 
+1274. differentiate v. 
+1275. differently adv. 
+1276. difficult adj. 
+1277. difficulty n. 
+1278. dig v. 
+1279. digital adj. 
+1280. dignity n. 
+1281. dilemma n. 
+1282. dime n. 
+1283. dimension n. 
+1284. diminish v. 
+1285. dinner n. 
+1286. dip v. 
+1287. diplomat n. 
+1288. diplomatic n. 
+1289. direct adj. , v., adv. 
+1290. direction n. 
+1291. directly adv. 
+1292. director n. 
+1293. directory n. 
+1294. dirt n. 
+1295. dirty adj. 
+1296. disability n. 
+1297. disabled adj. 
+1298. disadvantage n. 
+1299. disagree v. 
+1300. disagreement n. 
+1301. disappear v. 
+1302. disappoint v. 
+1303. disappointed adj. 
+1304. disappointing adj. 
+1305. disappointment n. 
+1306. disaster n. 
+1307. disastrous adj. 
+1308. disc n. 
+1309. discard v. 
+1310. discharge v. 
+1311. discipline n. 
+1312. disclose v. 
+1313. disclosure n. 
+1314. discount n. , v. 
+1315. discourage v. 
+1316. discourse n. 
+1317. discover v. 
+1318. discovery n. 
+1319. discretion n. 
+1320. discrimination n. 
+1321. discuss v. 
+1322. discussion n. 
+1323. disease n. 
+1324. dish n. 
+1325. dishonest adj. 
+1326. dislike v., n. 
+1327. dismiss v. 
+1328. dismissal n. 
+1329. disorder n. 
+1330. displace v. 
+1331. display v., n. 
+1332. disposal n. 
+1333. dispose v. 
+1334. dispute n., v. 
+1335. disrupt v. 
+1336. disruption n. 
+1337. dissolve v. 
+1338. distance n. 
+1339. distant adj. 
+1340. distinct adj. 
+1341. distinction n. 
+1342. distinctive adj. 
+1343. distinguish v. 
+1344. distort v. 
+1345. distract v. 
+1346. distress n., v. 
+1347. distribute v. 
+1348. distribution n. 
+1349. district n. 
+1350. disturb v. 
+1351. disturbing adj. 
+1352. dive v., n. 
+1353. diverse adj. 
+1354. diversity n. 
+1355. divert v. 
+1356. divide v. , n. 
+1357. divine adj. 
+1358. division n. 
+1359. divorce n., v. 
+1360. divorced adj. 
+1361. do1 v., auxiliary v. 
+1362. doctor n. 
+1363. doctrine n. 
+1364. document n. , v. 
+1365. documentary n. 
+1366. documentation n. 
+1367. dog n. 
+1368. dollar n. 
+1369. domain n. 
+1370. domestic adj. 
+1371. dominance n. 
+1372. dominant adj. 
+1373. dominate v. 
+1374. donate v. 
+1375. donation n. 
+1376. donor n. 
+1377. door n. 
+1378. dose n. 
+1379. dot n. 
+1380. double adj., det., pron., v. ,
+1381. doubt n., v. 
+1382. down adv., prep. 
+1383. download v., n. 
+1384. downstairs adv. , adj. 
+1385. downwards adv. 
+1386. dozen n., det. 
+1387. draft n., v. 
+1388. drag v. 
+1389. drain v. 
+1390. drama n. 
+1391. dramatic adj. 
+1392. dramatically adv. 
+1393. draw v. 
+1394. drawing n. 
+1395. dream n., v. 
+1396. dress n., v. 
+1397. dressed adj. 
+1398. drift v. 
+1399. drink n., v. 
+1400. drive v. , n. 
+1401. driver n. 
+1402. driving adj. 
+1403. driving n. 
+1404. drop v. , n. 
+1405. drought n. 
+1406. drown v. 
+1407. drug n. 
+1408. drum n. 
+1409. drunk adj. 
+1410. dry adj., v. 
+1411. dual adj. 
+1412. dub v. 
+1413. due adj. 
+1414. dull adj. 
+1415. dumb adj. 
+1416. dump v. 
+1417. duo n. 
+1418. duration n. 
+1419. during prep. 
+1420. dust n. 
+1421. duty n. 
+1422. DVD n. 
+1423. dynamic adj. , n. 
+1424. each det./pron./adv. 
+1425. eager adj. 
+1426. ear n. 
+1427. early adj., adv. 
+1428. earn v. 
+1429. earnings n. 
+1430. earth n. 
+1431. earthquake n. 
+1432. ease n., v. 
+1433. easily adv. 
+1434. east n., adj., adv. 
+1435. eastern adj. 
+1436. easy adj. 
+1437. eat v. 
+1438. echo v., n. 
+1439. ecological adj. 
+1440. economic adj. 
+1441. economics n. 
+1442. economist n. 
+1443. economy n. 
+1444. edge n. 
+1445. edit v. 
+1446. edition n. 
+1447. editor n. 
+1448. editorial adj. 
+1449. educate v. 
+1450. educated adj. 
+1451. education n. 
+1452. educational adj. 
+1453. educator n. 
+1454. effect n. 
+1455. effective adj. 
+1456. effectively adv. 
+1457. effectiveness n. 
+1458. efficiency n. 
+1459. efficient adj. 
+1460. efficiently adv. 
+1461. effort n. 
+1462. egg n. 
+1463. ego n. 
+1464. eight number 
+1465. eighteen number 
+1466. eighty number 
+1467. either det./pron., adv. 
+1468. elaborate adj. 
+1469. elbow n. 
+1470. elderly adj. 
+1471. elect v. 
+1472. election n. 
+1473. electoral adj. 
+1474. electric adj. 
+1475. electrical adj. 
+1476. electricity n. 
+1477. electronic adj. 
+1478. electronics n. 
+1479. elegant adj. 
+1480. element n. 
+1481. elementary adj. 
+1482. elephant n. 
+1483. elevate v. 
+1484. eleven number 
+1485. eligible adj. 
+1486. eliminate v. 
+1487. elite n. 
+1488. else adv. 
+1489. elsewhere adv. 
+1490. email n., v. 
+1491. embark v. 
+1492. embarrassed adj. 
+1493. embarrassing adj. 
+1494. embarrassment n. 
+1495. embassy n. 
+1496. embed v. 
+1497. embody v. 
+1498. embrace v. 
+1499. emerge v. 
+1500. emergence n. 
+1501. emergency n. 
+1502. emission n. 
+1503. emotion n. 
+1504. emotional adj. 
+1505. emotionally adv. 
+1506. emphasis n. 
+1507. emphasize v. 
+1508. empire n. 
+1509. empirical adj. 
+1510. employ v. 
+1511. employee n. 
+1512. employer n. 
+1513. employment n. 
+1514. empower v. 
+1515. empty adj. , v. 
+1516. enable v. 
+1517. enact v. 
+1518. encompass v. 
+1519. encounter v., n. 
+1520. encourage v. 
+1521. encouragement n. 
+1522. encouraging adj. 
+1523. end n., v. 
+1524. endeavor n. 
+1525. ending n. 
+1526. endless adj. 
+1527. endorse v. 
+1528. endorsement n. 
+1529. endure v. 
+1530. enemy n. 
+1531. energy n. 
+1532. enforce v. 
+1533. enforcement n. 
+1534. engage v. 
+1535. engaged adj. 
+1536. engagement n. 
+1537. engaging adj. 
+1538. engine n. 
+1539. engineer n. 
+1540. engineering n. 
+1541. enhance v. 
+1542. enjoy v. 
+1543. enjoyable adj. 
+1544. enormous adj. 
+1545. enough det., pron., adv. 
+1546. enquiry n. 
+1547. enrich v. 
+1548. enroll v. 
+1549. ensue v. 
+1550. ensure v. 
+1551. enter v. 
+1552. enterprise n. 
+1553. entertain v. 
+1554. entertaining adj. 
+1555. entertainment n. 
+1556. enthusiasm n. 
+1557. enthusiast n. 
+1558. enthusiastic adj. 
+1559. entire adj. 
+1560. entirely adv. 
+1561. entitle v. 
+1562. entity n. 
+1563. entrance n. 
+1564. entrepreneur n. 
+1565. entry n. 
+1566. envelope n. 
+1567. environment n. 
+1568. environmental adj. 
+1569. epidemic n. 
+1570. episode n. 
+1571. equal adj., v. , n. 
+1572. equality n. 
+1573. equally adv. 
+1574. equation n. 
+1575. equip v. 
+1576. equipment n. 
+1577. equivalent n., adj. 
+1578. era n. 
+1579. erect v. 
+1580. error n. 
+1581. erupt v. 
+1582. escalate v. 
+1583. escape v., n. 
+1584. especially adv. 
+1585. essay n. 
+1586. essence n. 
+1587. essential adj. 
+1588. essentially adv. 
+1589. establish v. 
+1590. establishment n. 
+1591. estate n. 
+1592. estimate v., n. 
+1593. eternal adj. 
+1594. ethic n. 
+1595. ethical adj. 
+1596. ethnic adj. 
+1597. euro n. 
+1598. evacuate v. 
+1599. evaluate v. 
+1600. evaluation n. 
+1601. even adv. , adj. 
+1602. evening n. 
+1603. event n. 
+1604. eventually adv. 
+1605. ever adv. 
+1606. every det. 
+1607. everybody pron. 
+1608. everyday adj. 
+1609. everyone pron. 
+1610. everything pron. 
+1611. everywhere adv. 
+1612. evidence n. 
+1613. evident adj. 
+1614. evil adj., n. 
+1615. evoke v. 
+1616. evolution n. 
+1617. evolutionary adj. 
+1618. evolve v. 
+1619. exact adj. 
+1620. exactly adv. 
+1621. exaggerate v. 
+1622. exam n. 
+1623. examination n. 
+1624. examine v. 
+1625. example n. 
+1626. exceed v. 
+1627. excellence n. 
+1628. excellent adj. 
+1629. except prep. , conj. 
+1630. exception n. 
+1631. exceptional adj. 
+1632. excess n., adj. 
+1633. excessive adj. 
+1634. exchange n., v. 
+1635. excited adj. 
+1636. excitement n. 
+1637. exciting adj. 
+1638. exclude v. 
+1639. exclusion n. 
+1640. exclusive adj. 
+1641. exclusively adv. 
+1642. excuse n., v. 
+1643. execute v. 
+1644. execution n. 
+1645. executive n., adj. 
+1646. exercise n., v. 
+1647. exert v. 
+1648. exhibition n. 
+1649. exile n. 
+1650. exist v. 
+1651. existence n. 
+1652. exotic adj. 
+1653. expand v. 
+1654. expansion n. 
+1655. expect v. 
+1656. expectation n. 
+1657. expected adj. 
+1658. expedition n. 
+1659. expenditure n. 
+1660. expense n. 
+1661. expensive adj. 
+1662. experience n. , v. 
+1663. experienced adj. 
+1664. experiment n. , v. 
+1665. experimental adj. 
+1666. expert n., adj. 
+1667. expertise n. 
+1668. expire v. 
+1669. explain v. 
+1670. explanation n. 
+1671. explicit adj. 
+1672. explicitly adv. 
+1673. explode v. 
+1674. exploit v. 
+1675. exploitation n. 
+1676. exploration n. 
+1677. explore v. 
+1678. explosion n. 
+1679. explosive adj., n. 
+1680. export n., v. 
+1681. expose v. 
+1682. exposure n. 
+1683. express v. 
+1684. expression n. 
+1685. extend v. 
+1686. extension n. 
+1687. extensive adj. 
+1688. extensively adv. 
+1689. extent n. 
+1690. external adj. 
+1691. extra adj. , n., adv. 
+1692. extract n. , v. 
+1693. extraordinary adj. 
+1694. extreme adj. , n. 
+1695. extremely adv. 
+1696. extremist n. 
+1697. eye n. 
+1698. fabric n. 
+1699. fabulous adj. 
+1700. face n. , v. 
+1701. facilitate v. 
+1702. facility n. 
+1703. fact n. 
+1704. faction n. 
+1705. factor n. 
+1706. factory n. 
+1707. faculty n. 
+1708. fade v. 
+1709. fail v. 
+1710. failed adj. 
+1711. failure n. 
+1712. fair adj. 
+1713. fairly adv. 
+1714. fairness n. 
+1715. faith n. 
+1716. fake adj. 
+1717. fall v. , n. 
+1718. false adj. 
+1719. fame n. 
+1720. familiar adj. 
+1721. family n., adj. 
+1722. famous adj. 
+1723. fan n. 
+1724. fancy v., adj. 
+1725. fantastic adj. 
+1726. fantasy n. 
+1727. far adv. , adj. 
+1728. fare n. 
+1729. farm n. , v.
+1730. farmer n. 
+1731. farming n. 
+1732. fascinating adj. 
+1733. fashion n. 
+1734. fashionable adj. 
+1735. fast adj., adv. 
+1736. fasten v. 
+1737. fat adj. , n.
+1738. fatal adj. 
+1739. fate n. 
+1740. father n. 
+1741. fault n. 
+1742. favorable adj. 
+1743. favour n. , v. 
+1744. favourite adj., n. 
+1745. fear n. , v. 
+1746. feat n. 
+1747. feather n. 
+1748. feature n. , v. 
+1749. February n. 
+1750. fee n. 
+1751. feed v. , n. 
+1752. feedback n. 
+1753. feel v. , n. 
+1754. feeling n. 
+1755. fellow adj. 
+1756. felony n. 
+1757. female adj., n. 
+1758. feminist adj., n. 
+1759. fence n. 
+1760. festival n. 
+1761. few det./adj., pron. 
+1762. fiber n. 
+1763. fiction n. 
+1764. field n. 
+1765. fierce adj. 
+1766. fifteen number 
+1767. fifth number 
+1768. fifty number 
+1769. fight v., n. 
+1770. fighting n. 
+1771. figure n. , v. 
+1772. file n. , v. 
+1773. fill v. 
+1774. film n. , v. 
+1775. filmmaker n. 
+1776. filter n., v. 
+1777. final adj. , n. 
+1778. finally adv. 
+1779. finance n., v. 
+1780. financial adj. 
+1781. find v. 
+1782. finding n. 
+1783. fine adj. 
+1784. fine n., v. 
+1785. finger n. 
+1786. finish v. , n. 
+1787. fire n. , v. 
+1788. firearm n. 
+1789. firefighter n. 
+1790. firework n. 
+1791. firm adj. 
+1792. firm n. 
+1793. firmly adv. 
+1794. first det./number, adv. , n. 
+1795. firstly adv. 
+1796. fiscal adj. 
+1797. fish n. , v. 
+1798. fishing n. 
+1799. fit n. 
+1800. fit v., adj. 
+1801. fitness n. 
+1802. five number 
+1803. fix v. , n. 
+1804. fixed adj. 
+1805. flag n. 
+1806. flame n. 
+1807. flash n., v. 
+1808. flat n. , adj. 
+1809. flavor n. 
+1810. flaw n. 
+1811. flawed adj. 
+1812. flee v. 
+1813. fleet n. 
+1814. flesh n. 
+1815. flexibility n. 
+1816. flexible adj. 
+1817. flight n. 
+1818. float v. 
+1819. flood n., v. 
+1820. floor n. 
+1821. flour n. 
+1822. flourish v. 
+1823. flow v., n. 
+1824. flower n. 
+1825. flu n. 
+1826. fluid n. 
+1827. fly v. , n. 
+1828. flying n., adj. 
+1829. focus v., n. 
+1830. fold v. , n. 
+1831. folding adj. 
+1832. folk n., adj. 
+1833. follow v. 
+1834. following adj. , n. , prep. 
+1835. fond adj. 
+1836. food n. 
+1837. fool n. 
+1838. foot n. 
+1839. footage n. 
+1840. football n. 
+1841. for prep. 
+1842. forbid v. 
+1843. force n., v. 
+1844. forecast n., v. 
+1845. foreign adj. 
+1846. foreigner n. 
+1847. forest n. 
+1848. forever adv. 
+1849. forge v. 
+1850. forget v. 
+1851. forgive v. 
+1852. fork n. 
+1853. form n., v. 
+1854. formal adj. 
+1855. format n. 
+1856. formation n. 
+1857. former adj. 
+1858. formerly adv. 
+1859. formula n. 
+1860. formulate v. 
+1861. forth adv. 
+1862. forthcoming adj. 
+1863. fortunate adj. 
+1864. fortunately adv. 
+1865. fortune n. 
+1866. forty number 
+1867. forum n. 
+1868. forward adv. , adj. 
+1869. fossil n. 
+1870. foster v. 
+1871. found v. 
+1872. foundation n. 
+1873. founder n. 
+1874. four number 
+1875. fourteen number 
+1876. fourth number 
+1877. fraction n. 
+1878. fragile adj. 
+1879. fragment n. 
+1880. frame n., v. 
+1881. framework n. 
+1882. franchise n. 
+1883. frankly adv. 
+1884. fraud n. 
+1885. free adj. , adv. , v. 
+1886. freedom n. 
+1887. freely adv. 
+1888. freeze v. 
+1889. frequency n. 
+1890. frequent adj. 
+1891. frequently adv. 
+1892. fresh adj. 
+1893. freshman n. 
+1894. Friday n. 
+1895. fridge n. 
+1896. friend n. 
+1897. friendly adj. 
+1898. friendship n. 
+1899. frighten v. 
+1900. frightened adj. 
+1901. frightening adj. 
+1902. frog n. 
+1903. from prep. 
+1904. front n., adj. 
+1905. frozen adj. 
+1906. fruit n. 
+1907. frustrated adj. 
+1908. frustrating adj. 
+1909. frustration n. 
+1910. fry v. 
+1911. fuel n. , v. 
+1912. fulfill v. 
+1913. full adj. 
+1914. full-time adj./adv. 
+1915. fully adv. 
+1916. fun n. , adj. 
+1917. function n. , v. 
+1918. functional adj. 
+1919. fund n., v. 
+1920. fundamental adj. 
+1921. fundamentally adv. 
+1922. funding n. 
+1923. fundraising n. 
+1924. funeral n. 
+1925. funny adj. 
+1926. fur n. 
+1927. furious adj. 
+1928. furniture n. 
+1929. further adj. , adv. 
+1930. furthermore adv. 
+1931. future n. , adj. 
+1932. gain v., n. 
+1933. gallery n. 
+1934. gallon n. 
+1935. gambling n. 
+1936. game n. 
+1937. gaming n. 
+1938. gang n. 
+1939. gap n. 
+1940. garage n. 
+1941. garden n. 
+1942. gas n. 
+1943. gate n. 
+1944. gather v. 
+1945. gathering n. 
+1946. gay adj. 
+1947. gaze n., v. 
+1948. gear n. 
+1949. gender n. 
+1950. gene n. 
+1951. general adj. 
+1952. generally adv. 
+1953. generate v. 
+1954. generation n. 
+1955. generic adj. 
+1956. generous adj. 
+1957. genetic adj. 
+1958. genius n. 
+1959. genocide n. 
+1960. genre n. 
+1961. gentle adj. 
+1962. gentleman n. 
+1963. genuine adj. 
+1964. genuinely adv. 
+1965. geography n. 
+1966. gesture n. 
+1967. get v. 
+1968. ghost n. 
+1969. giant adj., n. 
+1970. gift n. 
+1971. gig n. 
+1972. girl n. 
+1973. girlfriend n. 
+1974. give v. 
+1975. glad adj. 
+1976. glance n., v. 
+1977. glass n. 
+1978. glimpse n. 
+1979. global adj. 
+1980. globalization n. 
+1981. globe n. 
+1982. glorious adj. 
+1983. glory n. 
+1984. glove n. 
+1985. go v. , n. 
+1986. goal n. 
+1987. god n. 
+1988. gold n., adj. 
+1989. golden adj. 
+1990. golf n. 
+1991. good adj. , n. 
+1992. goodbye exclam./n. 
+1993. goodness n. 
+1994. goods n. 
+1995. gorgeous adj. 
+1996. govern v. 
+1997. governance n. 
+1998. government n. 
+1999. grab v. 
+2000. grace n. 
+2001. grade n. , v. 
+2002. gradually adv. 
+2003. graduate n., v. 
+2004. grain n. 
+2005. grand adj. 
+2006. grandfather n. 
+2007. grandmother n. 
+2008. grandparent n. 
+2009. grant v., n. 
+2010. graphic adj. 
+2011. graphics n. 
+2012. grasp v., n. 
+2013. grass n. 
+2014. grateful adj. 
+2015. grave (for dead person) n. 
+2016. grave (serious) adj. 
+2017. gravity n. 
+2018. great adj. 
+2019. greatly adv. 
+2020. green adj., n. 
+2021. greenhouse n. 
+2022. greet v. 
+2023. grey adj., n. 
+2024. grid n. 
+2025. grief n. 
+2026. grin v., n. 
+2027. grind v. 
+2028. grip n., v. 
+2029. gross adj. 
+2030. ground n. 
+2031. group n. 
+2032. grow v. 
+2033. growth n. 
+2034. guarantee v., n. 
+2035. guard n., v. 
+2036. guerrilla n. 
+2037. guess v., n. 
+2038. guest n. 
+2039. guidance n. 
+2040. guide n., v. 
+2041. guideline n. 
+2042. guilt n. 
+2043. guilty adj. 
+2044. guitar n. 
+2045. gun n. 
+2046. gut n. 
+2047. guy n. 
+2048. gym n. 
+2049. habit n. 
+2050. habitat n. 
+2051. hail v. 
+2052. hair n. 
+2053. half n., det./pron. , adv. 
+2054. halfway adv. 
+2055. hall n. 
+2056. halt v., n. 
+2057. hand n. , v. 
+2058. handful n. 
+2059. handle v., n. 
+2060. handling n. 
+2061. handy adj. 
+2062. hang v. 
+2063. happen v. 
+2064. happily adv. 
+2065. happiness n. 
+2066. happy adj. 
+2067. harassment n. 
+2068. harbor n. 
+2069. hard adj., adv. 
+2070. hardly adv. 
+2071. hardware n. 
+2072. harm n., v. 
+2073. harmful adj. 
+2074. harmony n. 
+2075. harsh adj. 
+2076. harvest n., v. 
+2077. hat n. 
+2078. hate v. , n. 
+2079. hatred n. 
+2080. haunt v. 
+2081. have to modal v. 
+2082. have v. , auxiliary v. 
+2083. hazard n. 
+2084. he pron. 
+2085. head n. , v. 
+2086. headache n. 
+2087. headline n. 
+2088. headquarters n. 
+2089. heal v. 
+2090. health n. 
+2091. healthcare n. 
+2092. healthy adj. 
+2093. hear v. 
+2094. hearing n. 
+2095. heart n. 
+2096. heat n., v. 
+2097. heating n. 
+2098. heaven n. 
+2099. heavily adv. 
+2100. heavy adj. 
+2101. heel n. 
+2102. height n. 
+2103. heighten v. 
+2104. helicopter n. 
+2105. hell n. 
+2106. hello exclam./n. 
+2107. helmet n. 
+2108. help v., n. 
+2109. helpful adj. 
+2110. hence adv. 
+2111. her pron., det. 
+2112. herb n. 
+2113. here adv. 
+2114. heritage n. 
+2115. hero n. 
+2116. hers pron. 
+2117. herself pron. 
+2118. hesitate v. 
+2119. hey exclam. 
+2120. hi exclam. 
+2121. hidden adj. 
+2122. hide v. 
+2123. hierarchy n. 
+2124. high adj. , adv. , n. 
+2125. high-profile adj. 
+2126. highlight v., n. 
+2127. highly adv. 
+2128. hilarious adj. 
+2129. hill n. 
+2130. him pron. 
+2131. himself pron. 
+2132. hint n., v. 
+2133. hip n. 
+2134. hire v. , n. 
+2135. his det. , pron. 
+2136. historian n. 
+2137. historic adj. 
+2138. historical adj. 
+2139. history n. 
+2140. hit v., n. 
+2141. hobby n. 
+2142. hockey n. 
+2143. hold v. , n. 
+2144. hole n. 
+2145. holiday n. 
+2146. hollow adj. 
+2147. holy adj. 
+2148. home n., adv. , adj. 
+2149. homeland n. 
+2150. homeless adj. 
+2151. homework n. 
+2152. honest adj. 
+2153. honesty n. 
+2154. honey n. 
+2155. honour n., v. 
+2156. hook n., v. 
+2157. hope v. , n. 
+2158. hopeful adj. 
+2159. hopefully adv. 
+2160. horizon n. 
+2161. horn n. 
+2162. horrible adj. 
+2163. horror n. 
+2164. horse n. 
+2165. hospital n. 
+2166. host n. , v. 
+2167. hostage n. 
+2168. hostile adj. 
+2169. hostility n. 
+2170. hot adj. 
+2171. hotel n. 
+2172. hour n. 
+2173. house n. , v. 
+2174. household n. 
+2175. housing n. 
+2176. how adv. 
+2177. however adv. 
+2178. huge adj. 
+2179. human adj., n. 
+2180. humanitarian adj. 
+2181. humanity n. 
+2182. humble adj. 
+2183. humorous adj. 
+2184. humour n. 
+2185. hundred number 
+2186. hunger n. 
+2187. hungry adj. 
+2188. hunt v. , n. 
+2189. hunting n. 
+2190. hurricane n. 
+2191. hurry n., v. 
+2192. hurt v., adj. , n. 
+2193. husband n. 
+2194. hydrogen n. 
+2195. hypothesis n. 
+2196. I pron. 
+2197. ice cream n. 
+2198. ice n. 
+2199. icon n. 
+2200. ID n. 
+2201. idea n. 
+2202. ideal adj. , n. 
+2203. identical adj. 
+2204. identification n. 
+2205. identify v. 
+2206. identity n. 
+2207. ideological adj. 
+2208. ideology n. 
+2209. idiot n. 
+2210. if conj. 
+2211. ignorance n. 
+2212. ignore v. 
+2213. ill adj. 
+2214. illegal adj. 
+2215. illness n. 
+2216. illusion n. 
+2217. illustrate v. 
+2218. illustration n. 
+2219. image n. 
+2220. imagery n. 
+2221. imaginary adj. 
+2222. imagination n. 
+2223. imagine v. 
+2224. immediate adj. 
+2225. immediately adv. 
+2226. immense adj. 
+2227. immigrant n. 
+2228. immigration n. 
+2229. imminent adj. 
+2230. immune adj. 
+2231. impact n., v. 
+2232. impatient adj. 
+2233. implement v. 
+2234. implementation n. 
+2235. implication n. 
+2236. imply v. 
+2237. import n., v. 
+2238. importance n. 
+2239. important adj. 
+2240. impose v. 
+2241. impossible adj. 
+2242. impress v. 
+2243. impressed adj. 
+2244. impression n. 
+2245. impressive adj. 
+2246. imprison v. 
+2247. improve v. 
+2248. improvement n. 
+2249. in prep., adv. 
+2250. inability n. 
+2251. inadequate adj. 
+2252. inappropriate adj. 
+2253. incarcerate v. 
+2254. incarceration n. 
+2255. incentive n. 
+2256. inch n. 
+2257. incidence n. 
+2258. incident n. 
+2259. inclined adj. 
+2260. include v. 
+2261. included adj. 
+2262. including prep. 
+2263. inclusion n. 
+2264. income n. 
+2265. incorporate v. 
+2266. incorrect adj. 
+2267. increase v., n. 
+2268. increasingly adv. 
+2269. incredible adj. 
+2270. incredibly adv. 
+2271. incur v. 
+2272. indeed adv. 
+2273. independence n. 
+2274. independent adj. 
+2275. index n. 
+2276. indicate v. 
+2277. indication n. 
+2278. indicator n. 
+2279. indictment n. 
+2280. indigenous adj. 
+2281. indirect adj. 
+2282. individual n., adj. 
+2283. indoor adj. 
+2284. indoors adv. 
+2285. induce v. 
+2286. indulge v. 
+2287. industrial adj. 
+2288. industry n. 
+2289. inequality n. 
+2290. inevitable adj. 
+2291. inevitably adv. 
+2292. infamous adj. 
+2293. infant n. 
+2294. infect v. 
+2295. infection n. 
+2296. infer v. 
+2297. inflation n. 
+2298. inflict v. 
+2299. influence n., v. 
+2300. influential adj. 
+2301. info n. 
+2302. inform v. 
+2303. informal adj. 
+2304. information n. 
+2305. infrastructure n. 
+2306. ingredient n. 
+2307. inhabitant n. 
+2308. inherent adj. 
+2309. inherit v. 
+2310. inhibit v. 
+2311. initial adj. 
+2312. initially adv. 
+2313. initiate v. 
+2314. initiative n. 
+2315. inject v. 
+2316. injection n. 
+2317. injure v. 
+2318. injured adj. 
+2319. injury n. 
+2320. injustice n. 
+2321. ink n. 
+2322. inmate n. 
+2323. inner adj. 
+2324. innocent adj. 
+2325. innovation n. 
+2326. innovative adj. 
+2327. input n. 
+2328. inquire v. 
+2329. insect n. 
+2330. insert v. 
+2331. insertion n. 
+2332. inside prep., adv., n., adj. 
+2333. insider n. 
+2334. insight n. 
+2335. insist v. 
+2336. inspect v. 
+2337. inspection n. 
+2338. inspector n. 
+2339. inspiration n. 
+2340. inspire v. 
+2341. install v. 
+2342. installation n. 
+2343. instance n. 
+2344. instant adj. 
+2345. instantly adv. 
+2346. instead adv. 
+2347. instinct n. 
+2348. institute n. 
+2349. institution n. 
+2350. institutional adj. 
+2351. instruct v. 
+2352. instruction n. 
+2353. instructor n. 
+2354. instrument n. 
+2355. instrumental adj. 
+2356. insufficient adj. 
+2357. insult n., v. 
+2358. insurance n. 
+2359. intact adj. 
+2360. intake n. 
+2361. integral adj. 
+2362. integrate v. 
+2363. integrated adj. 
+2364. integration n. 
+2365. integrity n. 
+2366. intellectual adj. , n. 
+2367. intelligence n. 
+2368. intelligent adj. 
+2369. intend v. 
+2370. intended adj. 
+2371. intense adj. 
+2372. intensify v. 
+2373. intensity n. 
+2374. intensive adj. 
+2375. intent n. 
+2376. intention n. 
+2377. interact v. 
+2378. interaction n. 
+2379. interactive adj. 
+2380. interest n., v. 
+2381. interested adj. 
+2382. interesting adj. 
+2383. interface n. 
+2384. interfere v. 
+2385. interference n. 
+2386. interim adj. 
+2387. interior adj., n. 
+2388. intermediate adj. 
+2389. internal adj. 
+2390. international adj. 
+2391. internet n. 
+2392. interpret v. 
+2393. interpretation n. 
+2394. interrupt v. 
+2395. intersection n. 
+2396. interval n. 
+2397. intervene v. 
+2398. intervention n. 
+2399. interview n., v. 
+2400. intimate adj. 
+2401. into prep. 
+2402. intriguing adj. 
+2403. introduce v. 
+2404. introduction n. 
+2405. invade v. 
+2406. invasion n. 
+2407. invent v. 
+2408. invention n. 
+2409. inventory n. 
+2410. invest v. 
+2411. investigate v. 
+2412. investigation n. 
+2413. investigator n. 
+2414. investment n. 
+2415. investor n. 
+2416. invisible adj. 
+2417. invitation n. 
+2418. invite v. 
+2419. invoke v. 
+2420. involve v. 
+2421. involved adj. 
+2422. involvement n. 
+2423. iron n., v. 
+2424. ironic adj. 
+2425. ironically adv. 
+2426. irony n. 
+2427. irrelevant adj. 
+2428. island n. 
+2429. isolate v. 
+2430. isolated adj. 
+2431. isolation n. 
+2432. issue n. , v. 
+2433. IT n. 
+2434. it pron. 
+2435. item n. 
+2436. its det. 
+2437. itself pron. 
+2438. jacket n. 
+2439. jail n., v. 
+2440. jam n. 
+2441. January n. 
+2442. jazz n. 
+2443. jeans n. 
+2444. jet n. 
+2445. jewellery n. 
+2446. job n. 
+2447. join v. 
+2448. joint adj., n. 
+2449. joke n., v. 
+2450. journal n. 
+2451. journalism n. 
+2452. journalist n. 
+2453. journey n. 
+2454. joy n. 
+2455. judge n., v. 
+2456. judgement n. 
+2457. judicial adj. 
+2458. juice n. 
+2459. July n. 
+2460. jump v., n. 
+2461. June n. 
+2462. junior adj. 
+2463. jurisdiction n. 
+2464. jury n. 
+2465. just adj. 
+2466. just adv. 
+2467. justice n. 
+2468. justification n. 
+2469. justify v. 
+2470. keen adj. 
+2471. keen adj. 
+2472. keep v. 
+2473. key n., adj. , v. 
+2474. keyboard n. 
+2475. kick v., n. 
+2476. kid n. 
+2477. kidnap v. 
+2478. kidney n. 
+2479. kill v. 
+2480. killing n. 
+2481. kilometre n. 
+2482. kind (caring) adj. 
+2483. kind (type) n. 
+2484. kindergarten n. 
+2485. king n. 
+2486. kingdom n. 
+2487. kiss v., n. 
+2488. kit n. 
+2489. kitchen n. 
+2490. knee n. 
+2491. knife n. 
+2492. knock v. , n. 
+2493. know v. 
+2494. knowledge n. 
+2495. lab n. 
+2496. label n., v. 
+2497. laboratory n. 
+2498. labour n. 
+2499. lack n., v. 
+2500. ladder n. 
+2501. lady n. 
+2502. lake n. 
+2503. lamp n. 
+2504. land n. , v. 
+2505. landing n. 
+2506. landlord n. 
+2507. landmark n. 
+2508. landscape n. 
+2509. lane n. 
+2510. language n. 
+2511. lap n. 
+2512. laptop n. 
+2513. large adj. 
+2514. large-scale adj. 
+2515. largely adv. 
+2516. laser n. 
+2517. last1 (final) det. , adv., n. 
+2518. last1 (taking time) v. 
+2519. late adj., adv. 
+2520. lately adv. 
+2521. later adv. , adj. 
+2522. latest adj. , n. 
+2523. latter adj., n. 
+2524. laugh v., n. 
+2525. laughter n. 
+2526. launch v., n. 
+2527. law n. 
+2528. lawmaker n. 
+2529. lawn n. 
+2530. lawsuit n. 
+2531. lawyer n. 
+2532. lay v. 
+2533. layer n. 
+2534. layout n. 
+2535. lazy adj. 
+2536. lead1 v. , n. 
+2537. leader n. 
+2538. leadership n. 
+2539. leading adj. 
+2540. leaf n. 
+2541. league n. 
+2542. leak v., n. 
+2543. lean v. 
+2544. leap v., n. 
+2545. learn v. 
+2546. learning n. 
+2547. least det./pron., adv. 
+2548. leather n. 
+2549. leave v. , n. 
+2550. lecture n., v. 
+2551. left adj., adv., n. 
+2552. leg n. 
+2553. legacy n. 
+2554. legal adj. 
+2555. legend n. 
+2556. legendary adj. 
+2557. legislation n. 
+2558. legislative adj. 
+2559. legislature n. 
+2560. legitimate adj. 
+2561. leisure n. 
+2562. lemon n. 
+2563. lend v. 
+2564. length n. 
+2565. lengthy adj. 
+2566. lens n. 
+2567. lesbian adj. 
+2568. less det./pron., adv. 
+2569. lesser adj. 
+2570. lesson n. 
+2571. let v. 
+2572. lethal adj. 
+2573. letter n. 
+2574. level n. , adj. , v. 
+2575. liable adj. 
+2576. liberal adj., n. 
+2577. liberation n. 
+2578. liberty n. 
+2579. library n. 
+2580. licence n. 
+2581. lie1 v. 
+2582. lie2 (tell a lie) v., n. 
+2583. life n. 
+2584. lifelong adj. 
+2585. lifestyle n. 
+2586. lifetime n. 
+2587. lift v., n. 
+2588. light (from the sun/a lamp) n.,
+2589. light (not heavy) adj. 
+2590. lighting n. 
+2591. like (find sb/sth pleasant) v. ,
+2592. like (similar) prep. 
+2593. likelihood n. 
+2594. likely adj. 
+2595. likewise adv. 
+2596. limb n. 
+2597. limit n., v. 
+2598. limitation n. 
+2599. limited adj. 
+2600. line n. , v. 
+2601. linear adj. 
+2602. lineup n. 
+2603. linger v. 
+2604. link n., v. 
+2605. lion n. 
+2606. lip n. 
+2607. liquid n., adj. 
+2608. list n., v. 
+2609. listen v. 
+2610. listener n. 
+2611. listing n. 
+2612. liter n. 
+2613. literacy n. 
+2614. literally adv. 
+2615. literary adj. 
+2616. literature n. 
+2617. litter n. 
+2618. little adj., det./pron. , adv. 
+2619. live1 v. 
+2620. live2 adj., adv. 
+2621. lively adj. 
+2622. liver n. 
+2623. living adj., n. 
+2624. load n., v. 
+2625. loan n. 
+2626. lobby n., v. 
+2627. local adj. , n. 
+2628. locate v. 
+2629. located adj. 
+2630. location n. 
+2631. lock v., n. 
+2632. log n., v. 
+2633. logic n. 
+2634. logical adj. 
+2635. logo n. 
+2636. lonely adj. 
+2637. long-standing adj. 
+2638. long-term adj., adv. 
+2639. long1 adj., adv. 
+2640. longtime adj. 
+2641. look v. , n. 
+2642. loom v. 
+2643. loop n. 
+2644. loose adj. 
+2645. lord n. 
+2646. lorry n. 
+2647. lose v. 
+2648. loss n. 
+2649. lost adj. 
+2650. lot pron., det., adv. 
+2651. lottery n. 
+2652. loud adj., adv. 
+2653. loudly adv. 
+2654. love n., v. 
+2655. lovely adj. 
+2656. low adj., adv. , n. 
+2657. lower v. 
+2658. loyal adj. 
+2659. loyalty n. 
+2660. luck n. 
+2661. lucky adj. 
+2662. lunch n. 
+2663. lung n. 
+2664. luxury n. 
+2665. lyric n. 
+2666. machine n. 
+2667. machinery n. 
+2668. mad adj. 
+2669. magazine n. 
+2670. magic n., adj. 
+2671. magical adj. 
+2672. magnetic adj. 
+2673. magnificent adj. 
+2674. magnitude n. 
+2675. mail n., v. 
+2676. main adj. 
+2677. mainland n. 
+2678. mainly adv. 
+2679. mainstream n., adj. 
+2680. maintain v. 
+2681. maintenance n. 
+2682. major adj. 
+2683. majority n. 
+2684. make v. , n. 
+2685. makeup n. 
+2686. making n. 
+2687. male adj., n. 
+2688. mall n. 
+2689. man n. 
+2690. manage v. 
+2691. management n. 
+2692. manager n. 
+2693. mandate n. 
+2694. mandatory adj. 
+2695. manifest v. 
+2696. manipulate v. 
+2697. manipulation n. 
+2698. manner n. 
+2699. manufacture v. 
+2700. manufacturing n. 
+2701. manuscript n. 
+2702. many det./pron. 
+2703. map n. , v. 
+2704. marathon n. 
+2705. March n. 
+2706. march n., v. 
+2707. margin n. 
+2708. marginal adj. 
+2709. marine adj. 
+2710. mark v., n. 
+2711. marker n. 
+2712. market n. , v. 
+2713. marketing n. 
+2714. marketplace n. 
+2715. marriage n. 
+2716. married adj. 
+2717. marry v. 
+2718. martial adj. 
+2719. mask n. 
+2720. mass n., adj. 
+2721. massacre n. 
+2722. massive adj. 
+2723. master n., v. 
+2724. match (contest/correspond) n.,
+2725. matching adj. 
+2726. mate n., v. 
+2727. material n. , adj. 
+2728. mathematical adj. 
+2729. mathematics n. 
+2730. maths n. 
+2731. matter n., v. 
+2732. mature adj., v. 
+2733. maximize v. 
+2734. maximum adj., n. 
+2735. may modal v. 
+2736. May n. 
+2737. maybe adv. 
+2738. me pron. 
+2739. meal n. 
+2740. mean v. 
+2741. meaning n. 
+2742. meaningful adj. 
+2743. means n. 
+2744. meantime n. 
+2745. meanwhile adv. 
+2746. measure v., n. 
+2747. measurement n. 
+2748. meat n. 
+2749. mechanic n. 
+2750. mechanical adj. 
+2751. mechanism n. 
+2752. medal n. 
+2753. media n. 
+2754. medical adj. 
+2755. medication n. 
+2756. medicine n. 
+2757. medieval adj. 
+2758. meditation n. 
+2759. medium adj. , n. 
+2760. meet v. 
+2761. meeting n. 
+2762. melody n. 
+2763. melt v. 
+2764. member n. 
+2765. membership n. 
+2766. memo n. 
+2767. memoir n. 
+2768. memorable adj. 
+2769. memorial n. 
+2770. memory n. 
+2771. mental adj. 
+2772. mention v. , n. 
+2773. mentor n. 
+2774. menu n. 
+2775. merchant n. 
+2776. mercy n. 
+2777. mere adj. 
+2778. merely adv. 
+2779. merge v. 
+2780. merger n. 
+2781. merit n. 
+2782. mess n., v. 
+2783. message n. 
+2784. metal n. 
+2785. metaphor n. 
+2786. method n. 
+2787. methodology n. 
+2788. metre n. 
+2789. middle n., adj. 
+2790. midnight n. 
+2791. midst n. 
+2792. might modal v. 
+2793. migration n. 
+2794. mild adj. 
+2795. mile n. 
+2796. militant n., adj. 
+2797. military adj., n. 
+2798. militia n. 
+2799. milk n. 
+2800. mill n. 
+2801. million number 
+2802. mind n., v. 
+2803. mine (belongs to me) pron. 
+2804. mine (hole in the ground) n. 
+2805. miner n. 
+2806. mineral n. 
+2807. minimal adj. 
+2808. minimize v. 
+2809. minimum adj., n. 
+2810. mining n. 
+2811. minister n. 
+2812. ministry n. 
+2813. minor adj. 
+2814. minority n. 
+2815. minute1 n. 
+2816. minute2 adj. 
+2817. miracle n. 
+2818. mirror n. 
+2819. miserable adj. 
+2820. misery n. 
+2821. misleading adj. 
+2822. miss v. 
+2823. missile n. 
+2824. missing adj. 
+2825. mission n. 
+2826. mistake n. , v. 
+2827. mix v., n. 
+2828. mixed adj. 
+2829. mixture n. 
+2830. mob n. 
+2831. mobile adj. 
+2832. mobile adj., n. 
+2833. mobility n. 
+2834. mobilize v. 
+2835. mode n. 
+2836. model n. , v. 
+2837. moderate adj. 
+2838. modern adj. 
+2839. modest adj. 
+2840. modification n. 
+2841. modify v. 
+2842. module n. 
+2843. moment n. 
+2844. momentum n. 
+2845. Monday n. 
+2846. money n. 
+2847. monitor n., v. 
+2848. monk n. 
+2849. monkey n. 
+2850. monopoly n. 
+2851. monster n. 
+2852. month n. 
+2853. monthly adj. 
+2854. monument n. 
+2855. mood n. 
+2856. moon n. 
+2857. moral adj., n. 
+2858. morality n. 
+2859. more det./pron., adv. 
+2860. moreover adv. 
+2861. morning n. 
+2862. mortgage n. 
+2863. mosque n. 
+2864. mosquito n. 
+2865. most det./pron., adv. 
+2866. mostly adv. 
+2867. mother n. 
+2868. motion n. 
+2869. motivate v. 
+2870. motivation n. 
+2871. motive n. 
+2872. motor n., adj. 
+2873. motorcycle n. 
+2874. mount v. 
+2875. mountain n. 
+2876. mouse n. 
+2877. mouth n. 
+2878. move v. , n. 
+2879. movement n. 
+2880. movie n. 
+2881. moving adj. 
+2882. much det./pron., adv. 
+2883. mud n. 
+2884. multiple adj. 
+2885. multiply v. 
+2886. mum n. 
+2887. municipal adj. 
+2888. murder n., v. 
+2889. muscle n. 
+2890. museum n. 
+2891. music n. 
+2892. musical adj. , n. 
+2893. musician n. 
+2894. must modal v. 
+2895. mutual adj. 
+2896. my det. 
+2897. myself pron. 
+2898. mysterious adj. 
+2899. mystery n. 
+2900. myth n. 
+2901. nail n. 
+2902. naked adj. 
+2903. name n., v. 
+2904. namely adv. 
+2905. narrative n., adj. 
+2906. narrow adj. , v. 
+2907. nasty adj. 
+2908. nation n. 
+2909. national adj. , n. 
+2910. nationwide adj. 
+2911. native adj., n. 
+2912. natural adj. 
+2913. naturally adv. 
+2914. nature n. 
+2915. naval adj. 
+2916. navigation n. 
+2917. near prep., adj., adv. 
+2918. nearby adj., adv. 
+2919. nearly adv. 
+2920. neat adj. 
+2921. necessarily adv. 
+2922. necessary adj. 
+2923. necessity n. 
+2924. neck n. 
+2925. need v. , n. , modal v. 
+2926. needle n. 
+2927. negative adj. , n. 
+2928. neglect v., n. 
+2929. negotiate v. 
+2930. negotiation n. 
+2931. neighboring adj. 
+2932. neighbour n. 
+2933. neighbourhood n. 
+2934. neither det./pron. , adv. 
+2935. nerve n. 
+2936. nervous adj. 
+2937. nest n. 
+2938. net adj. 
+2939. net n. 
+2940. network n. 
+2941. neutral adj. 
+2942. never adv. 
+2943. nevertheless adv. 
+2944. new adj. 
+2945. newly adv. 
+2946. news n. 
+2947. newsletter n. 
+2948. newspaper n. 
+2949. next adj., adv. , n. 
+2950. next to prep. 
+2951. nice adj. 
+2952. niche n. 
+2953. nickel n. 
+2954. night n. 
+2955. nightmare n. 
+2956. nine number 
+2957. nineteen number 
+2958. ninety number 
+2959. no exclam., det. 
+2960. no one pron. 
+2961. noble adj. 
+2962. nobody pron. 
+2963. nod v. 
+2964. noise n. 
+2965. noisy adj. 
+2966. nominate v. 
+2967. nomination n. 
+2968. nominee n. 
+2969. none pron. 
+2970. nonetheless adv. 
+2971. nonprofit adj. 
+2972. nonsense n. 
+2973. noon n. 
+2974. nor conj./adv. 
+2975. norm n. 
+2976. normal adj. , n. 
+2977. normally adv. 
+2978. north n., adj., adv. 
+2979. northern adj. 
+2980. nose n. 
+2981. not adv. 
+2982. notable adj. 
+2983. notably adv. 
+2984. note n. , v. 
+2985. notebook n. 
+2986. nothing pron. 
+2987. notice v., n. 
+2988. notify v. 
+2989. notion n. 
+2990. notorious adj. 
+2991. novel adj. 
+2992. novel n. 
+2993. novelist n. 
+2994. November n. 
+2995. now adv. , conj. 
+2996. nowadays adv. 
+2997. nowhere adv. 
+2998. nuclear adj. 
+2999. number , adv. 
+3000. numerous adj. 
+3001. nurse n. 
+3002. nursery n. 
+3003. nursing adj. 
+3004. nut n. 
+3005. nutrition n. 
+3006. o’clock adv. 
+3007. obesity n. 
+3008. obey v. 
+3009. object n. , v. 
+3010. objection n. 
+3011. objective n., adj. 
+3012. obligation n. 
+3013. oblige v. 
+3014. observation n. 
+3015. observe v. 
+3016. observer n. 
+3017. obsess v. 
+3018. obsession n. 
+3019. obstacle n. 
+3020. obtain v. 
+3021. obvious adj. 
+3022. obviously adv. 
+3023. occasion n. 
+3024. occasional adj. 
+3025. occasionally adv. 
+3026. occupation n. 
+3027. occupy v. 
+3028. occur v. 
+3029. occurrence n. 
+3030. ocean n. 
+3031. October n. 
+3032. odd adj. 
+3033. odds n. 
+3034. of prep. 
+3035. off adv., prep. 
+3036. offence n. 
+3037. offend v. 
+3038. offender n. 
+3039. offensive adj. 
+3040. offer v., n. 
+3041. offering n. 
+3042. office n. 
+3043. officer n. 
+3044. official adj. , n. 
+3045. offspring n. 
+3046. often adv. 
+3047. oh exclam. 
+3048. oil n. 
+3049. OK exclam., adj./adv. 
+3050. old adj. 
+3051. old-fashioned adj. 
+3052. on prep., adv. 
+3053. once adv. , conj. 
+3054. one number/det., pron. 
+3055. ongoing adj. 
+3056. onion n. 
+3057. online adj., adv. 
+3058. only adj., adv. 
+3059. onto prep. 
+3060. open adj., v. 
+3061. opening n. 
+3062. openly adv. 
+3063. opera n. 
+3064. operate v. 
+3065. operation n. 
+3066. operational adj. 
+3067. operator n. 
+3068. opinion n. 
+3069. opponent n. 
+3070. opportunity n. 
+3071. oppose v. 
+3072. opposed adj. 
+3073. opposite adj., adv., prep., n. 
+3074. opposition n. 
+3075. opt v. 
+3076. optical adj. 
+3077. optimism n. 
+3078. optimistic adj. 
+3079. option n. 
+3080. or conj. 
+3081. oral adj. 
+3082. orange n., adj. 
+3083. orchestra n. 
+3084. order n., v. 
+3085. ordinary adj. 
+3086. organ n. 
+3087. organic adj. 
+3088. organization n. 
+3089. organizational adj. 
+3090. organize v. 
+3091. organized adj. 
+3092. organizer n. 
+3093. orientation n. 
+3094. origin n. 
+3095. original adj. , n.
+3096. originally adv. 
+3097. originate v. 
+3098. other adj./pron. 
+3099. otherwise adv. 
+3100. ought modal v. 
+3101. our det. 
+3102. ours pron. 
+3103. ourselves pron. 
+3104. out adv./prep. 
+3105. outbreak n. 
+3106. outcome n. 
+3107. outdoor adj. 
+3108. outdoors adv. 
+3109. outer adj. 
+3110. outfit n. 
+3111. outing n. 
+3112. outlet n. 
+3113. outline n., v. 
+3114. outlook n. 
+3115. output n. 
+3116. outrage n., v. 
+3117. outside adv. , prep., noun., adj.
+3118. outsider n. 
+3119. outstanding adj. 
+3120. oven n. 
+3121. over prep., adv. 
+3122. overall adj., adv. 
+3123. overcome v. 
+3124. overlook v. 
+3125. overly adv. 
+3126. overnight adv. 
+3127. oversee v. 
+3128. overturn v. 
+3129. overwhelm v. 
+3130. overwhelming adj. 
+3131. owe v. 
+3132. own adj./pron. , v. 
+3133. owner n. 
+3134. ownership n. 
+3135. oxygen n. 
+3136. pace n., v. 
+3137. pack v. , n. 
+3138. package n. , v. 
+3139. packet n. 
+3140. pad n. 
+3141. page n. 
+3142. pain n. 
+3143. painful adj. 
+3144. paint v., n. 
+3145. painter n. 
+3146. painting n. 
+3147. pair n. 
+3148. palace n. 
+3149. pale adj. 
+3150. palm n. 
+3151. pan n. 
+3152. panel n. 
+3153. panic n. 
+3154. pants n. 
+3155. paper n. 
+3156. parade n. 
+3157. paragraph n. 
+3158. parallel adj., n. 
+3159. parameter n. 
+3160. parent n. 
+3161. parental adj. 
+3162. park n., v. 
+3163. parking n. 
+3164. parliament n. 
+3165. part n. 
+3166. part-time adj./adv. 
+3167. partial adj. 
+3168. partially adv. 
+3169. participant n. 
+3170. participate v. 
+3171. participation n. 
+3172. particular adj. 
+3173. particularly adv. 
+3174. partly adv. 
+3175. partner n. 
+3176. partnership n. 
+3177. party n. 
+3178. pass v. , n. 
+3179. passage n. 
+3180. passenger n. 
+3181. passing n. 
+3182. passion n. 
+3183. passionate adj. 
+3184. passive adj. 
+3185. passport n. 
+3186. password n. 
+3187. past adj., n., prep. , adv. 
+3188. pastor n. 
+3189. patch n. 
+3190. patent n. 
+3191. path n. 
+3192. pathway n. 
+3193. patience n. 
+3194. patient n. , adj. 
+3195. patrol n., v. 
+3196. patron n. 
+3197. pattern n. 
+3198. pause v., n. 
+3199. pay v. , n. 
+3200. payment n. 
+3201. peace n. 
+3202. peaceful adj. 
+3203. peak n. 
+3204. peasant n. 
+3205. peculiar adj. 
+3206. peer n. 
+3207. pen n. 
+3208. penalty n. 
+3209. pencil n. 
+3210. penny n. 
+3211. pension1 n. 
+3212. pension1 n. 
+3213. people n. 
+3214. pepper n. 
+3215. per cent n., adj./adv. 
+3216. per prep. 
+3217. perceive v. 
+3218. percentage n. 
+3219. perception n. 
+3220. perfect adj. 
+3221. perfectly adv. 
+3222. perform v. 
+3223. performance n. 
+3224. perhaps adv. 
+3225. period n. 
+3226. permanent adj. 
+3227. permanently adv. 
+3228. permission n. 
+3229. permit v., n. 
+3230. persist v. 
+3231. persistent adj. 
+3232. person n. 
+3233. personal adj. 
+3234. personality n. 
+3235. personally adv. 
+3236. personnel n. 
+3237. perspective n. 
+3238. persuade v. 
+3239. pet n. 
+3240. petition n. 
+3241. petrol n. 
+3242. pharmacy n.
+3243. phase n. 
+3244. phenomenon n. 
+3245. philosopher n. 
+3246. philosophical adj. 
+3247. philosophy n. 
+3248. phone n., v. 
+3249. photo n. 
+3250. photograph n. , v. 
+3251. photographer n. 
+3252. photography n. 
+3253. phrase n. 
+3254. physical adj. 
+3255. physician n. 
+3256. physics n. 
+3257. piano n. 
+3258. pick v. , n. 
+3259. picture n. , v. 
+3260. piece n. 
+3261. pig n. 
+3262. pile n., v. 
+3263. pill n. 
+3264. pilot n. 
+3265. pin n., v. 
+3266. pink adj., n. 
+3267. pioneer n., v. 
+3268. pipe n. 
+3269. pipeline n. 
+3270. pirate n. 
+3271. pit n. 
+3272. pitch n. 
+3273. pity n. 
+3274. place n. , v. 
+3275. placement n. 
+3276. plain adj. 
+3277. plan n., v. 
+3278. plane n. 
+3279. planet n. 
+3280. planning n. 
+3281. plant n. , v. 
+3282. plastic n., adj. 
+3283. plate n. 
+3284. platform n. 
+3285. play v., n. 
+3286. player n. 
+3287. plea n. 
+3288. plead v. 
+3289. pleasant adj. 
+3290. please exclam. , v. 
+3291. pleased adj. 
+3292. pleasure n. 
+3293. pledge v., n. 
+3294. plenty pron. 
+3295. plot n. , v. 
+3296. plug v., n. 
+3297. plunge v. 
+3298. plus1 prep. , adj., conj., n. 
+3299. pocket n. 
+3300. poem n. 
+3301. poet n. 
+3302. poetry n. 
+3303. point n. , v. 
+3304. pointed adj. 
+3305. poison n., v. 
+3306. poisonous adj. 
+3307. pole n. 
+3308. police n. 
+3309. policeman n. 
+3310. policy n. 
+3311. polite adj. 
+3312. political adj. 
+3313. politician n. 
+3314. politics n. 
+3315. poll n. 
+3316. pollution n. 
+3317. pond n. 
+3318. pool n. 
+3319. poor adj. 
+3320. pop n., adj. 
+3321. pop v. 
+3322. popular adj. 
+3323. popularity n. 
+3324. population n. 
+3325. port n. 
+3326. portfolio n. 
+3327. portion n. 
+3328. portrait n. 
+3329. portray v. 
+3330. pose v. 
+3331. position n. , v. 
+3332. positive adj. , n. 
+3333. possess v. 
+3334. possession n. 
+3335. possibility n. 
+3336. possible adj. 
+3337. possibly adv. 
+3338. post n., v. 
+3339. poster n. 
+3340. postpone v. 
+3341. postwar adj. 
+3342. pot n. 
+3343. potato n. 
+3344. potential adj., n. 
+3345. potentially adv. 
+3346. pound n. 
+3347. pour v. 
+3348. poverty n. 
+3349. powder n. 
+3350. power n. , v. 
+3351. powerful adj. 
+3352. practical adj. 
+3353. practice n. 
+3354. practise v. 
+3355. practitioner n. 
+3356. praise n., v. 
+3357. pray v. 
+3358. prayer n. 
+3359. preach v. 
+3360. precede v. 
+3361. precedent n. 
+3362. precious adj. 
+3363. precise adj. 
+3364. precisely adv. 
+3365. precision n. 
+3366. predator n. 
+3367. predecessor n. 
+3368. predict v. 
+3369. predictable adj. 
+3370. prediction n. 
+3371. predominantly adv. 
+3372. prefer v. 
+3373. preference n. 
+3374. pregnancy n. 
+3375. pregnant adj. 
+3376. prejudice n. 
+3377. preliminary adj. 
+3378. premier n. 
+3379. premise n. 
+3380. premium n. 
+3381. preparation n. 
+3382. prepare v. 
+3383. prepared adj. 
+3384. prescribe v. 
+3385. prescription n. 
+3386. presence n. 
+3387. present adj., n. , v. 
+3388. presentation n. 
+3389. presently adv. 
+3390. preservation n. 
+3391. preserve v. 
+3392. preside v. 
+3393. presidency n. 
+3394. president n. 
+3395. presidential adj. 
+3396. press v., n. 
+3397. pressure n. 
+3398. prestigious adj. 
+3399. presumably adv. 
+3400. presume v. 
+3401. pretend v. 
+3402. pretty adj., adv. 
+3403. prevail v. 
+3404. prevalence n. 
+3405. prevent v. 
+3406. prevention n. 
+3407. previous adj. 
+3408. previously adv. 
+3409. prey n. 
+3410. price n. , v. 
+3411. pride n. 
+3412. priest n. 
+3413. primarily adv. 
+3414. primary adj. 
+3415. prime adj. 
+3416. prince n. 
+3417. princess n. 
+3418. principal adj. , n. 
+3419. principle n. 
+3420. print v. , n. 
+3421. printer n. 
+3422. printing n. 
+3423. prior adj. 
+3424. priority n. 
+3425. prison n. 
+3426. prisoner n. 
+3427. privacy n. 
+3428. private adj. 
+3429. privatization n. 
+3430. privilege n. 
+3431. prize n. 
+3432. probability n. 
+3433. probable adj. 
+3434. probably adv. 
+3435. probe n., v. 
+3436. problem n. 
+3437. problematic adj. 
+3438. procedure n. 
+3439. proceed v. 
+3440. proceeding n. 
+3441. proceeds n. 
+3442. process n. , v. 
+3443. processing n. 
+3444. processor n. 
+3445. proclaim v. 
+3446. produce v. , v. 
+3447. producer n. 
+3448. product n. 
+3449. production n. 
+3450. productive adj. 
+3451. productivity n. 
+3452. profession n. 
+3453. professional adj. , n. 
+3454. professor n. 
+3455. profile n. 
+3456. profit n. 
+3457. profitable adj. 
+3458. profound adj. 
+3459. program n. , v. 
+3460. programme n. 
+3461. programming n. 
+3462. progress n. , v. 
+3463. progressive adj. 
+3464. prohibit v. 
+3465. project n. , v. 
+3466. projection n. 
+3467. prominent adj. 
+3468. promise v., n. 
+3469. promising adj. 
+3470. promote v. 
+3471. promotion n. 
+3472. prompt v. 
+3473. pronounce v. 
+3474. pronounced adj. 
+3475. proof n. 
+3476. propaganda n. 
+3477. proper adj. 
+3478. properly adv. 
+3479. property n. 
+3480. proportion n. 
+3481. proposal n. 
+3482. propose v. 
+3483. proposition n. 
+3484. prosecute v. 
+3485. prosecution n. 
+3486. prosecutor n. 
+3487. prospect n. 
+3488. prospective adj. 
+3489. prosperity n. 
+3490. protect v. 
+3491. protection n. 
+3492. protective adj. 
+3493. protein n. 
+3494. protest n., v. 
+3495. protester n. 
+3496. protocol n. 
+3497. proud adj. 
+3498. prove v. 
+3499. provide v. 
+3500. province n. 
+3501. provincial adj. 
+3502. provision n. 
+3503. provoke v. 
+3504. psychiatric adj. 
+3505. psychological adj. 
+3506. psychologist n. 
+3507. psychology n. 
+3508. pub n. 
+3509. public adj., n. 
+3510. publication n. 
+3511. publicity n. 
+3512. publish v. 
+3513. publishing n. 
+3514. pull v. , n. 
+3515. pulse n. 
+3516. pump v., n. 
+3517. punch n., v. 
+3518. punish v. 
+3519. punishment n. 
+3520. punk n. 
+3521. pupil n. 
+3522. purchase n., v. 
+3523. pure adj. 
+3524. purely adv. 
+3525. purple adj., n. 
+3526. purpose n. 
+3527. pursue v. 
+3528. pursuit n. 
+3529. push v. , n. 
+3530. put v. 
+3531. puzzle n. 
+3532. qualification n. 
+3533. qualified adj. 
+3534. qualify v. 
+3535. quality n. 
+3536. quantity n. 
+3537. quarter n. 
+3538. queen n. 
+3539. query n. 
+3540. quest n. 
+3541. question n. , v. 
+3542. questionnaire n. 
+3543. queue n., v. 
+3544. quick adj. 
+3545. quickly adv. 
+3546. quiet adj. 
+3547. quietly adv. 
+3548. quit v. 
+3549. quite adv. 
+3550. quota n. 
+3551. quotation n. 
+3552. quote v., n. 
+3553. race (competition) n., v. 
+3554. race (people) n. 
+3555. racial adj. 
+3556. racing n. 
+3557. racism n. 
+3558. racist adj., n. 
+3559. radar n. 
+3560. radiation n. 
+3561. radical adj. 
+3562. radio n. 
+3563. rage n. 
+3564. raid n., v. 
+3565. rail n. 
+3566. railway n. 
+3567. rain n., v. 
+3568. raise v. 
+3569. rally n., v. 
+3570. random adj. 
+3571. range n. , v. 
+3572. rank n., v. 
+3573. ranking n. 
+3574. rape n., v. 
+3575. rapid adj. 
+3576. rapidly adv. 
+3577. rare adj. 
+3578. rarely adv. 
+3579. rat n. 
+3580. rate n. , v. 
+3581. rather adv. 
+3582. rating n. 
+3583. ratio n. 
+3584. rational adj. 
+3585. raw adj. 
+3586. ray n. 
+3587. reach v. , n. 
+3588. react v. 
+3589. reaction n. 
+3590. read v. 
+3591. reader n. 
+3592. readily adv. 
+3593. reading n. 
+3594. ready adj. 
+3595. real adj. 
+3596. realistic adj. 
+3597. reality n. 
+3598. realization n. 
+3599. realize v. 
+3600. really adv. 
+3601. realm n. 
+3602. rear adj., n. 
+3603. reason n. 
+3604. reasonable adj. 
+3605. reasonably adv. 
+3606. reasoning n. 
+3607. reassure v. 
+3608. rebel n. 
+3609. rebellion n. 
+3610. rebuild v. 
+3611. recall v. 
+3612. receipt n. 
+3613. receive v. 
+3614. receiver n. 
+3615. recent adj. 
+3616. recently adv. 
+3617. reception n. 
+3618. recession n. 
+3619. recipe n. 
+3620. recipient n. 
+3621. reckon v. 
+3622. recognition n. 
+3623. recognize v. 
+3624. recommend v. 
+3625. recommendation n. 
+3626. reconstruction n. 
+3627. record n., v. 
+3628. recording n. 
+3629. recount1 v. 
+3630. recover v. 
+3631. recovery n. 
+3632. recruit v., n. 
+3633. recruitment n. 
+3634. recycle v. 
+3635. red adj., n. 
+3636. reduce v. 
+3637. reduction n. 
+3638. refer v. 
+3639. referee n. 
+3640. reference n. 
+3641. referendum n. 
+3642. reflect v. 
+3643. reflection n. 
+3644. reform n., v. 
+3645. refuge n. 
+3646. refugee n. 
+3647. refusal n. 
+3648. refuse1 v. 
+3649. regain v. 
+3650. regard v., n. 
+3651. regardless adv. 
+3652. regime n. 
+3653. region n. 
+3654. regional adj. 
+3655. register v., n. 
+3656. registration n. 
+3657. regret v., n. 
+3658. regular adj. 
+3659. regularly adv. 
+3660. regulate v. 
+3661. regulation n. 
+3662. regulator n. 
+3663. regulatory adj. 
+3664. rehabilitation n. 
+3665. reign n., v. 
+3666. reinforce v. 
+3667. reject v. 
+3668. rejection n. 
+3669. relate v. 
+3670. related adj. 
+3671. relation n. 
+3672. relationship n. 
+3673. relative adj., n. 
+3674. relatively adv. 
+3675. relax v. 
+3676. relaxed adj. 
+3677. relaxing adj. 
+3678. release v., n. 
+3679. relevance n. 
+3680. relevant adj. 
+3681. reliability n. 
+3682. reliable adj. 
+3683. relief n. 
+3684. relieve v. 
+3685. relieved adj. 
+3686. religion n. 
+3687. religious adj. 
+3688. reluctant adj. 
+3689. rely v. 
+3690. remain v. 
+3691. remainder n. 
+3692. remains n. 
+3693. remark n., v. 
+3694. remarkable adj. 
+3695. remarkably adv. 
+3696. remedy n. 
+3697. remember v. 
+3698. remind v. 
+3699. reminder n. 
+3700. remote adj. 
+3701. removal n. 
+3702. remove v. 
+3703. render v. 
+3704. renew v. 
+3705. renowned adj. 
+3706. rent n., v. 
+3707. rental n. 
+3708. repair v. , n. 
+3709. repeat v. , n. 
+3710. repeated adj. 
+3711. replace v. 
+3712. replacement n. 
+3713. reply v., n. 
+3714. report n. , v. 
+3715. reportedly adv. 
+3716. reporter n. 
+3717. reporting n. 
+3718. represent v. 
+3719. representation n. 
+3720. representative n., adj. 
+3721. reproduce v. 
+3722. reproduction n. 
+3723. republic n. 
+3724. reputation n. 
+3725. request n. , v. 
+3726. require v. 
+3727. requirement n. 
+3728. rescue v., n. 
+3729. research n., v. 
+3730. researcher n. 
+3731. resemble v. 
+3732. reservation n. 
+3733. reserve n., v. 
+3734. reside v. 
+3735. residence n. 
+3736. resident n., adj. 
+3737. residential adj. 
+3738. residue n. 
+3739. resign v. 
+3740. resignation n. 
+3741. resist v. 
+3742. resistance n. 
+3743. resolution n. 
+3744. resolve v. 
+3745. resort n. 
+3746. resource n. 
+3747. respect n., v. 
+3748. respective adj. 
+3749. respectively adv. 
+3750. respond v. 
+3751. response n. 
+3752. responsibility n. 
+3753. responsible adj. 
+3754. rest (remaining part) n. 
+3755. rest (sleep/relax) n., v. 
+3756. restaurant n. 
+3757. restoration n. 
+3758. restore v. 
+3759. restraint n. 
+3760. restrict v. 
+3761. restriction n. 
+3762. result n. , v. 
+3763. résumé n. 
+3764. resume v. 
+3765. retail n. 
+3766. retain v. 
+3767. retire v. 
+3768. retired adj. 
+3769. retirement n. 
+3770. retreat n., v. 
+3771. retrieve v. 
+3772. return v., n. 
+3773. reveal v. 
+3774. revelation n. 
+3775. revenge n. 
+3776. revenue n. 
+3777. reverse v., n., adj. 
+3778. review n., v. 
+3779. revise v. 
+3780. revision n. 
+3781. revival n. 
+3782. revive v. 
+3783. revolution n. 
+3784. revolutionary adj. 
+3785. reward n., v. 
+3786. rhetoric n. 
+3787. rhythm n. 
+3788. rice n. 
+3789. rich adj. 
+3790. rid v. 
+3791. ride v. , n. 
+3792. ridiculous adj. 
+3793. rifle n. 
+3794. right adj., adv., n. 
+3795. ring1 n. 
+3796. ring2 v. , n. 
+3797. riot n. 
+3798. rip v. 
+3799. rise v. , n. 
+3800. risk n., v. 
+3801. risky adj. 
+3802. ritual n. 
+3803. rival n., adj. 
+3804. river n. 
+3805. road n. 
+3806. rob v. 
+3807. robbery n. 
+3808. robot n. 
+3809. robust adj. 
+3810. rock (music) n. 
+3811. rock (stone) n. 
+3812. rock v. 
+3813. rocket n. 
+3814. rod n. 
+3815. role n. 
+3816. roll v., n. 
+3817. romance n. 
+3818. romantic adj. 
+3819. roof n. 
+3820. rookie n. 
+3821. room n. 
+3822. root n. 
+3823. rope n. 
+3824. rose n. 
+3825. roster n. 
+3826. rotate v. 
+3827. rotation n. 
+3828. rough adj. 
+3829. roughly adv. 
+3830. round adj., adv., prep. , n. 
+3831. route n. 
+3832. routine n. , adj. 
+3833. row1 n. 
+3834. royal adj. 
+3835. rub v. 
+3836. rubber n., adj. 
+3837. rubbish n. 
+3838. rude adj. 
+3839. rugby n. 
+3840. ruin v., n. 
+3841. rule n. , v. 
+3842. ruling n. 
+3843. rumor n. 
+3844. run v. , n. 
+3845. runner n. 
+3846. running n. 
+3847. rural adj. 
+3848. rush v., n. 
+3849. sacred adj. 
+3850. sacrifice n., v. 
+3851. sad adj. 
+3852. sadly adv. 
+3853. safe adj. 
+3854. safety n. 
+3855. sail v. , n. 
+3856. sailing n. 
+3857. sailor n. 
+3858. saint n. 
+3859. sake n. 
+3860. salad n. 
+3861. salary n. 
+3862. sale n. 
+3863. salt n. 
+3864. same adj., pron., adv. 
+3865. sample n. , v. 
+3866. sanction n. 
+3867. sand n. 
+3868. sandwich n. 
+3869. satellite n. 
+3870. satisfaction n. 
+3871. satisfied adj. 
+3872. satisfy v. 
+3873. Saturday n. 
+3874. sauce n. 
+3875. save v. 
+3876. saving n. 
+3877. say n. 
+3878. say v. 
+3879. scale n. 
+3880. scan v. 
+3881. scandal n. 
+3882. scare v., n. 
+3883. scared adj. 
+3884. scary adj. 
+3885. scattered adj. 
+3886. scenario n. 
+3887. scene n. 
+3888. schedule n. , v. 
+3889. scheme n. 
+3890. scholar n. 
+3891. scholarship n. 
+3892. school n. 
+3893. science n. 
+3894. scientific adj. 
+3895. scientist n. 
+3896. scope n. 
+3897. score v., n. 
+3898. scratch v., n. 
+3899. scream v., n. 
+3900. screen n. , v. 
+3901. screening n. 
+3902. screw v., n. 
+3903. script n. 
+3904. scrutiny n. 
+3905. sculpture n. 
+3906. sea n. 
+3907. seal v., n. 
+3908. search n., v. 
+3909. season n. 
+3910. seat n. , v. 
+3911. second1 (next after the first) det./
+3912. second1 (unit of time) n. 
+3913. secondary adj. 
+3914. secondly adv. 
+3915. secret adj., n. 
+3916. secretary n. 
+3917. section n. 
+3918. sector n. 
+3919. secular adj. 
+3920. secure v., adj. 
+3921. security n. 
+3922. see v. 
+3923. seed n. 
+3924. seek v. 
+3925. seeker n. 
+3926. seem v. 
+3927. seemingly adv. 
+3928. segment n. 
+3929. seize v. 
+3930. seldom adv. 
+3931. select v. 
+3932. selection n. 
+3933. selective adj. 
+3934. self n. 
+3935. sell v. 
+3936. seminar n. 
+3937. send v. 
+3938. senior adj. 
+3939. sensation n. 
+3940. sense n. , v. 
+3941. sensible adj. 
+3942. sensitive adj. 
+3943. sensitivity n. 
+3944. sentence n. , v. 
+3945. sentiment n. 
+3946. separate adj. , v. 
+3947. separation n. 
+3948. September n. 
+3949. sequence n. 
+3950. serial adj. 
+3951. series n. 
+3952. serious adj. 
+3953. seriously adv. 
+3954. servant n. 
+3955. serve v. 
+3956. service n. 
+3957. session n. 
+3958. set (group) n. 
+3959. set (put) v. 
+3960. setting n. 
+3961. settle v. 
+3962. settlement n. 
+3963. settler n. 
+3964. setup n. 
+3965. seven number 
+3966. seventeen number 
+3967. seventy number 
+3968. several det./pron. 
+3969. severe adj. 
+3970. severely adv. 
+3971. sex n. 
+3972. sexual adj. 
+3973. sexuality n. 
+3974. sexy adj. 
+3975. shade n. 
+3976. shadow n. 
+3977. shake v. , n. 
+3978. shall modal v. 
+3979. shallow adj. 
+3980. shame n. 
+3981. shape n. , v. 
+3982. shaped adj. 
+3983. share v. , n. 
+3984. shareholder n. 
+3985. sharp adj. 
+3986. shatter v. 
+3987. she pron. 
+3988. shed v. 
+3989. sheep n. 
+3990. sheer adj. 
+3991. sheet n. 
+3992. shelf n. 
+3993. shell n. 
+3994. shelter n., v. 
+3995. shift n. , v. 
+3996. shine v. 
+3997. shiny adj. 
+3998. ship n. , v. 
+3999. shipping n. 
+4000. shirt n. 
+4001. shock n., v. 
+4002. shocked adj. 
+4003. shocking adj. 
+4004. shoe n. 
+4005. shoot n. 
+4006. shoot v. 
+4007. shooting n. 
+4008. shop n., v. 
+4009. shopping n. 
+4010. shore n. 
+4011. short adj. 
+4012. short-term adj. 
+4013. shortage n. 
+4014. shortly adv. 
+4015. shot n. 
+4016. should modal v. 
+4017. shoulder n. 
+4018. shout v., n. 
+4019. show v., n. 
+4020. shower n. 
+4021. shrink v. 
+4022. shrug v. 
+4023. shut v., adj. 
+4024. shy adj. 
+4025. sibling n. 
+4026. sick adj. 
+4027. side n. 
+4028. sidewalk n. 
+4029. sigh v., n. 
+4030. sight n. 
+4031. sign n., v. 
+4032. signal n., v. 
+4033. signature n. 
+4034. significance n. 
+4035. significant adj. 
+4036. significantly adv. 
+4037. silence n. 
+4038. silent adj. 
+4039. silk n. 
+4040. silly adj. 
+4041. silver n., adj. 
+4042. similar adj. 
+4043. similarity n. 
+4044. similarly adv. 
+4045. simple adj. 
+4046. simply adv. 
+4047. simulate v. 
+4048. simulation n. 
+4049. simultaneously adv. 
+4050. sin n. 
+4051. since prep., conj. , adv. 
+4052. sincere adj. 
+4053. sing v. 
+4054. singer n. 
+4055. singing n. 
+4056. single adj., n. 
+4057. sink v. 
+4058. sir n. 
+4059. sister n. 
+4060. sit v. 
+4061. site n. 
+4062. situated adj. 
+4063. situation n. 
+4064. six number 
+4065. sixteen number 
+4066. sixty number 
+4067. size n. 
+4068. skeptical adj. 
+4069. sketch n. 
+4070. ski v., n. 
+4071. skiing n. 
+4072. skill n. 
+4073. skilled adj. 
+4074. skin n. 
+4075. skip v. 
+4076. skirt n. 
+4077. skull n. 
+4078. sky n. 
+4079. slam v. 
+4080. slap v. 
+4081. slash v. 
+4082. slave n. 
+4083. slavery n. 
+4084. sleep v. , n. 
+4085. slice n., v. 
+4086. slide v., n. 
+4087. slight adj. 
+4088. slightly adv. 
+4089. slip v. 
+4090. slogan n. 
+4091. slope n., v. 
+4092. slot n. 
+4093. slow adj. , v. 
+4094. slowly adv. 
+4095. small adj. 
+4096. smart adj. 
+4097. smartphone n. 
+4098. smash v. 
+4099. smell v., n. 
+4100. smile v., n. 
+4101. smoke n., v. 
+4102. smoking n. 
+4103. smooth adj. 
+4104. snake n. 
+4105. snap v. 
+4106. snow n., v. 
+4107. so adv., conj. 
+4108. so-called adj. 
+4109. soak v. 
+4110. soap n. 
+4111. soar v. 
+4112. soccer n. 
+4113. social adj. 
+4114. socialist adj. 
+4115. society n. 
+4116. sock n. 
+4117. soft adj. 
+4118. software n. 
+4119. soil n. 
+4120. solar adj. 
+4121. soldier n. 
+4122. sole adj. 
+4123. solely adv. 
+4124. solid adj., n. 
+4125. solidarity n. 
+4126. solo adj., n. 
+4127. solution n. 
+4128. solve v. 
+4129. some det., pron. 
+4130. somebody pron. 
+4131. somehow adv. 
+4132. someone pron. 
+4133. something pron. 
+4134. sometime adv. 
+4135. sometimes adv. 
+4136. somewhat adv. 
+4137. somewhere adv., pron. 
+4138. son n. 
+4139. song n. 
+4140. soon adv. 
+4141. sophisticated adj. 
+4142. sophomore n. 
+4143. sorry adj., exclam. 
+4144. sort n. , v. 
+4145. soul n. 
+4146. sound adj. 
+4147. sound n., v. 
+4148. soup n. 
+4149. source n. 
+4150. south n., adj., adv. 
+4151. southern adj. 
+4152. sovereignty n. 
+4153. space n. 
+4154. spam n. 
+4155. span v., n. 
+4156. spare adj. , v. 
+4157. spark v. 
+4158. speak v. 
+4159. speaker n. 
+4160. special adj. 
+4161. specialist n., adj. 
+4162. specialize v. 
+4163. specialized adj. 
+4164. species n. 
+4165. specific adj. 
+4166. specifically adv. 
+4167. specification n. 
+4168. specify v. 
+4169. specimen n. 
+4170. spectacle n. 
+4171. spectacular adj. 
+4172. spectator n. 
+4173. spectrum n. 
+4174. speculate v. 
+4175. speculation n. 
+4176. speech n. 
+4177. speed n. , v. 
+4178. spell n. 
+4179. spell v. 
+4180. spelling n. 
+4181. spend v. 
+4182. spending n. 
+4183. sphere n. 
+4184. spice n. 
+4185. spicy adj. 
+4186. spider n. 
+4187. spill v. 
+4188. spin v., n. 
+4189. spine n. 
+4190. spirit n. 
+4191. spiritual adj. 
+4192. spite n. 
+4193. split v., n. 
+4194. spoil v. 
+4195. spoken adj. 
+4196. spokesman n. 
+4197. spokesperson n. 
+4198. spokeswoman n. 
+4199. sponsor v., n. 
+4200. sponsorship n. 
+4201. spoon n. 
+4202. sport n. 
+4203. spot n. , v. 
+4204. spotlight n. 
+4205. spouse n. 
+4206. spread v. , n. 
+4207. spring n. , v. 
+4208. spy n., v. 
+4209. squad n. 
+4210. square adj., n. 
+4211. squeeze v. 
+4212. stab v. 
+4213. stability n. 
+4214. stabilize v. 
+4215. stable adj. 
+4216. stadium n. 
+4217. staff n. 
+4218. stage n. , v. 
+4219. stair n. 
+4220. stake n. 
+4221. stall n. 
+4222. stamp n. 
+4223. stance n. 
+4224. stand v. , n. 
+4225. standard n., adj. 
+4226. standing adj. 
+4227. star n. , v. 
+4228. stare v. 
+4229. stark adj. 
+4230. start v. , n. 
+4231. starve v. 
+4232. state n. , adj., v. 
+4233. statement n. 
+4234. station n. 
+4235. statistic n. 
+4236. statistical adj. 
+4237. statue n. 
+4238. status n. 
+4239. stay v. , n. 
+4240. steadily adv. 
+4241. steady adj. 
+4242. steal v. 
+4243. steam n. 
+4244. steel n. 
+4245. steep adj. 
+4246. steer v. 
+4247. stem n., v. 
+4248. step n. , v. 
+4249. stereotype n. 
+4250. stick (piece of wood) n. 
+4251. stick (push into/attach) v. 
+4252. sticky adj. 
+4253. stiff adj. 
+4254. still adv. , adj. 
+4255. stimulate v. 
+4256. stimulus n. 
+4257. stir v. 
+4258. stock n. 
+4259. stomach n. 
+4260. stone n. 
+4261. stop v., n. 
+4262. storage n. 
+4263. store n. , v. 
+4264. storm n. 
+4265. story n. 
+4266. straight adv., adj. 
+4267. straightforward adj. 
+4268. strain n. 
+4269. strand n. 
+4270. strange adj. 
+4271. stranger n. 
+4272. strategic adj. 
+4273. strategy n. 
+4274. stream n. 
+4275. street n. 
+4276. strength n. 
+4277. strengthen v. 
+4278. stress n., v. 
+4279. stretch v., n. 
+4280. strict adj. 
+4281. strictly adv. 
+4282. strike v., n. 
+4283. striking adj. 
+4284. string n. 
+4285. strip (long narrow piece) n. 
+4286. strip (remove clothes/a layer)
+4287. strive v. 
+4288. stroke n. 
+4289. strong adj. 
+4290. strongly adv. 
+4291. structural adj. 
+4292. structure n. , v. 
+4293. struggle v., n. 
+4294. student n. 
+4295. studio n. 
+4296. study n., v. 
+4297. stuff n. , v. 
+4298. stumble v. 
+4299. stun v.
+4300. stunning adj. 
+4301. stupid adj. 
+4302. style n. 
+4303. subject n. , adj. 
+4304. submission n. 
+4305. submit v. 
+4306. subscriber n. 
+4307. subscription n. 
+4308. subsequent adj. 
+4309. subsequently adv. 
+4310. subsidy n. 
+4311. substance n. 
+4312. substantial adj. 
+4313. substantially adv. 
+4314. substitute n., v. 
+4315. substitution n. 
+4316. subtle adj. 
+4317. suburb n.
+4318. suburban adj. 
+4319. succeed v. 
+4320. success n. 
+4321. successful adj. 
+4322. successfully adv. 
+4323. succession n. 
+4324. successive adj. 
+4325. successor n. 
+4326. such det./pron. 
+4327. suck v. 
+4328. sudden adj. 
+4329. suddenly adv. 
+4330. sue v. 
+4331. suffer v. 
+4332. suffering n. 
+4333. sufficient adj. 
+4334. sufficiently adv. 
+4335. sugar n. 
+4336. suggest v. 
+4337. suggestion n. 
+4338. suicide n. 
+4339. suit n. , v. 
+4340. suitable adj. 
+4341. suite n. 
+4342. sum n., v. 
+4343. summarize v. 
+4344. summary n. 
+4345. summer n. 
+4346. summit n. 
+4347. sun n. 
+4348. Sunday n. 
+4349. super adj. 
+4350. superb adj. 
+4351. superintendent n. 
+4352. superior adj. 
+4353. supermarket n. 
+4354. supervise v. 
+4355. supervision n. 
+4356. supervisor n. 
+4357. supplement n., v. 
+4358. supply n., v. 
+4359. support v., n. 
+4360. supporter n. 
+4361. supportive adj. 
+4362. suppose v. 
+4363. supposedly adv. 
+4364. suppress v. 
+4365. supreme adj. 
+4366. sure adj. , adv. 
+4367. surely adv. 
+4368. surface n. 
+4369. surge n., v. 
+4370. surgeon n. 
+4371. surgery n. 
+4372. surgical adj. 
+4373. surplus n. 
+4374. surprise n., v. 
+4375. surprised adj. 
+4376. surprising adj. 
+4377. surrender v. 
+4378. surround v. 
+4379. surrounding adj. 
+4380. surveillance n. 
+4381. survey n. , v. 
+4382. survival n. 
+4383. survive v. 
+4384. survivor n. 
+4385. suspect v., n. 
+4386. suspend v. 
+4387. suspension n. 
+4388. suspicion n. 
+4389. suspicious adj. 
+4390. sustain v. 
+4391. sustainable adj. 
+4392. swallow v. 
+4393. swear v. 
+4394. sweater n. 
+4395. sweep v. 
+4396. sweet adj., n. 
+4397. swim v. , n. 
+4398. swimming n. 
+4399. swing v., n. 
+4400. switch v. , n. 
+4401. sword n. 
+4402. symbol n. 
+4403. symbolic adj. 
+4404. sympathetic adj. 
+4405. sympathy n. 
+4406. symptom n. 
+4407. syndrome n. 
+4408. synthesis n. 
+4409. system n. 
+4410. systematic adj. 
+4411. T-shirt n. 
+4412. table n. 
+4413. tablet n. 
+4414. tackle v. , n. 
+4415. tactic n. 
+4416. tactical adj. 
+4417. tag n., v. 
+4418. tail n. 
+4419. take v. 
+4420. tale n. 
+4421. talent n. 
+4422. talented adj. 
+4423. talk v. , n. 
+4424. tall adj. 
+4425. tank n. 
+4426. tap v., n. 
+4427. tape n. 
+4428. target n. , v. 
+4429. task n. 
+4430. taste n., v. 
+4431. tax n., v. 
+4432. taxi n. 
+4433. taxpayer n. 
+4434. tea n. 
+4435. teach v. 
+4436. teacher n. 
+4437. teaching n. 
+4438. team n. 
+4439. tear1 v., n. 
+4440. tear2 n. 
+4441. technical adj. 
+4442. technique n. 
+4443. technological adj. 
+4444. technology n. 
+4445. teen n., adj. 
+4446. teenage adj. 
+4447. teenager n. 
+4448. telephone n., v. 
+4449. television n. 
+4450. tell v. 
+4451. temperature n. 
+4452. temple n. 
+4453. temporarily adv. 
+4454. temporary adj. 
+4455. tempt v. 
+4456. ten number 
+4457. tenant n. 
+4458. tend v. 
+4459. tendency n. 
+4460. tender adj. 
+4461. tennis n. 
+4462. tension n. 
+4463. tent n. 
+4464. tenure n. 
+4465. term n. , v. 
+4466. terminal n. , adj. 
+4467. terminate v. 
+4468. terms n. 
+4469. terrain n. 
+4470. terrible adj. 
+4471. terribly adv. 
+4472. terrific adj. 
+4473. terrify v. 
+4474. territory n. 
+4475. terror n. 
+4476. terrorism n. 
+4477. terrorist n. 
+4478. test n., v. 
+4479. testify v. 
+4480. testimony n. 
+4481. testing n. 
+4482. text n. , v. 
+4483. textbook n. 
+4484. texture n. 
+4485. than conj. 
+4486. thank v. 
+4487. thankfully adv. 
+4488. thanks exclam., n. 
+4489. that det., pron., conj. , adv. 
+4490. the definite article 
+4491. theatre n. 
+4492. theatrical adj. 
+4493. theft n.
+4494. their det. 
+4495. theirs pron. 
+4496. them pron. 
+4497. theme n. 
+4498. themselves pron. 
+4499. then adv. 
+4500. theology n. 
+4501. theoretical adj. 
+4502. theory n. 
+4503. therapist n. 
+4504. therapy n. 
+4505. there adv. 
+4506. thereafter adv. 
+4507. thereby adv. 
+4508. therefore adv. 
+4509. thesis n. 
+4510. they pron. 
+4511. thick adj. 
+4512. thief n. 
+4513. thin adj. 
+4514. thing n. 
+4515. think v. 
+4516. thinking n. 
+4517. third number , n. 
+4518. thirsty adj. 
+4519. thirteen number 
+4520. thirty number 
+4521. this det./pron. , adv. 
+4522. thorough adj. 
+4523. thoroughly adv. 
+4524. though conj., adv. 
+4525. thought n. 
+4526. thought-provoking adj. 
+4527. thoughtful adj. 
+4528. thousand number 
+4529. thread n. 
+4530. threat n. 
+4531. threaten v. 
+4532. three number 
+4533. threshold n. 
+4534. thrilled adj. 
+4535. thrive v. 
+4536. throat n. 
+4537. through prep., adv. 
+4538. throughout prep./adv. 
+4539. throw v. 
+4540. thumb n. 
+4541. Thursday n. 
+4542. thus adv. 
+4543. ticket n. 
+4544. tide n. 
+4545. tidy adj., v. 
+4546. tie v., n. 
+4547. tight adj. 
+4548. tighten v. 
+4549. till conj./prep. 
+4550. timber n. 
+4551. time n. , v. 
+4552. timely adj. 
+4553. timing n. 
+4554. tin n. 
+4555. tiny adj. 
+4556. tip n. , v. 
+4557. tired adj. 
+4558. tissue n. 
+4559. title n. , v. 
+4560. to prep., infinitive marker 
+4561. tobacco n. 
+4562. today adv., n. 
+4563. toe n. 
+4564. together adv. 
+4565. toilet n. 
+4566. tolerance n. 
+4567. tolerate v. 
+4568. toll n. 
+4569. tomato n. 
+4570. tomorrow adv., n. 
+4571. tone n. 
+4572. tongue n. 
+4573. tonight adv., n. 
+4574. too adv. 
+4575. tool n. 
+4576. tooth n. 
+4577. top n., adj. 
+4578. top v. 
+4579. topic n. 
+4580. torture n., v. 
+4581. toss v. 
+4582. total adj., n. 
+4583. total v. 
+4584. totally adv. 
+4585. touch v. , n. 
+4586. tough adj. 
+4587. tour n. , v. 
+4588. tourism n. 
+4589. tourist n. 
+4590. tournament n. 
+4591. towards prep. 
+4592. towel n. 
+4593. tower n. 
+4594. town n. 
+4595. toxic adj. 
+4596. toy n., adj. 
+4597. trace v., n. 
+4598. track n. , v. 
+4599. trade n., v. 
+4600. trademark n. 
+4601. trading n. 
+4602. tradition n. 
+4603. traditional adj. 
+4604. traffic n. 
+4605. tragedy n. 
+4606. tragic adj., 
+4607. trail n., v. 
+4608. trailer n. 
+4609. train n. , v. 
+4610. trainer n. 
+4611. training n. 
+4612. trait n. 
+4613. transaction n. 
+4614. transcript n. 
+4615. transfer v., n. 
+4616. transform v. 
+4617. transformation n. 
+4618. transit n. 
+4619. transition n. 
+4620. translate v. 
+4621. translation n. 
+4622. transmission n. 
+4623. transmit v. 
+4624. transparency n. 
+4625. transparent adj. 
+4626. transport n. , v. 
+4627. trap v., n. 
+4628. trauma n. 
+4629. travel v., n. 
+4630. traveller n. 
+4631. treasure n. 
+4632. treat v. 
+4633. treatment n. 
+4634. treaty n. 
+4635. tree n. 
+4636. tremendous adj. 
+4637. trend n. 
+4638. trial n. 
+4639. tribal adj. 
+4640. tribe n. 
+4641. tribute n. 
+4642. trick n., v. 
+4643. trigger v. , n. 
+4644. trillion number 
+4645. trio n. 
+4646. trip n. , v. 
+4647. triumph n. 
+4648. troop n. 
+4649. trophy n. 
+4650. tropical adj. 
+4651. trouble n. , v. 
+4652. troubled adj. 
+4653. trousers n. 
+4654. truck n. 
+4655. true adj. 
+4656. truly adv. 
+4657. trust n., v. 
+4658. trustee n. 
+4659. truth n. 
+4660. try v. , n. 
+4661. tsunami n. 
+4662. tube n. 
+4663. Tuesday n. 
+4664. tuition n. 
+4665. tumor n. 
+4666. tune n. 
+4667. tunnel n. 
+4668. turn v., n. 
+4669. turnout n. 
+4670. turnover n. 
+4671. TV n. 
+4672. twelve number 
+4673. twenty number 
+4674. twice adv. 
+4675. twin n., adj. 
+4676. twist v., n. 
+4677. two number 
+4678. type n. , v. 
+4679. typical adj. 
+4680. typically adv. 
+4681. tyre n. 
+4682. ugly adj. 
+4683. ultimate adj. 
+4684. ultimately adv. 
+4685. umbrella n. 
+4686. unable adj. 
+4687. unacceptable adj. 
+4688. uncertainty n. 
+4689. uncle n. 
+4690. uncomfortable adj. 
+4691. unconscious adj. 
+4692. unconstitutional adj. 
+4693. under prep., adv. 
+4694. undergo v. 
+4695. undergraduate n. 
+4696. underground adj., adv. 
+4697. underlying adj. 
+4698. undermine v. 
+4699. understand v. 
+4700. understanding n. 
+4701. undertake v. 
+4702. underwear n. 
+4703. undoubtedly adv. 
+4704. unemployed adj. 
+4705. unemployment n. 
+4706. unexpected adj. 
+4707. unfair adj. 
+4708. unfold v. 
+4709. unfortunate adj. 
+4710. unfortunately adv. 
+4711. unhappy adj. 
+4712. uniform n. 
+4713. unify v. 
+4714. union n. 
+4715. unique adj. 
+4716. unit n. 
+4717. unite v. 
+4718. united adj. 
+4719. unity n. 
+4720. universal adj. 
+4721. universe n. 
+4722. university n. 
+4723. unknown adj. 
+4724. unless conj. 
+4725. unlike prep. 
+4726. unlikely adj. 
+4727. unnecessary adj. 
+4728. unpleasant adj. 
+4729. unprecedented adj. 
+4730. until conj./prep. 
+4731. unusual adj. 
+4732. unveil v. 
+4733. up adv., prep. 
+4734. upcoming adj. 
+4735. update v., n. 
+4736. upgrade v., n. 
+4737. uphold v. 
+4738. upon prep. 
+4739. upper adj. 
+4740. upset adj., v. 
+4741. upstairs adv. , adj. 
+4742. upwards adv. 
+4743. urban adj. 
+4744. urge v. 
+4745. urgent adj. 
+4746. us pron. 
+4747. usage n. 
+4748. use v. , n. 
+4749. used to modal v. 
+4750. used1 adj. 
+4751. used2 adj. 
+4752. useful adj. 
+4753. useless adj. 
+4754. user n. 
+4755. usual adj. 
+4756. usually adv. 
+4757. utility n. 
+4758. utilize v. 
+4759. utterly adv. 
+4760. vacation n. 
+4761. vacuum n. 
+4762. vague adj. 
+4763. valid adj. 
+4764. validity n. 
+4765. valley n. 
+4766. valuable adj. 
+4767. value n. , v. 
+4768. van n. 
+4769. vanish v. 
+4770. variable n., adj. 
+4771. variation n. 
+4772. varied adj. 
+4773. variety n. 
+4774. various adj. 
+4775. vary v. 
+4776. vast adj. 
+4777. vegetable n. 
+4778. vehicle n. 
+4779. vein n. 
+4780. venture n., v. 
+4781. venue n. 
+4782. verbal adj. 
+4783. verdict n. 
+4784. verify v. 
+4785. verse n. 
+4786. version n. 
+4787. versus conj. 
+4788. vertical adj. 
+4789. very adv. , adj. 
+4790. vessel n. 
+4791. veteran n. 
+4792. via prep. 
+4793. viable adj., 
+4794. vibrant adj. 
+4795. vice n. 
+4796. vicious adj. 
+4797. victim n. 
+4798. victory n. 
+4799. video n. 
+4800. view n. , v. 
+4801. viewer n. 
+4802. viewpoint n. 
+4803. village n. 
+4804. violate v. 
+4805. violation n. 
+4806. violence n. 
+4807. violent adj. 
+4808. virtual adj. 
+4809. virtue n. 
+4810. virus n. 
+4811. visa n. 
+4812. visible adj. 
+4813. vision n. 
+4814. visit v., n. 
+4815. visitor n. 
+4816. visual adj. 
+4817. vital adj. 
+4818. vitamin n. 
+4819. vocal adj. 
+4820. voice n. 
+4821. volume n. 
+4822. voluntary adj. 
+4823. volunteer n., v. 
+4824. vote n., v. 
+4825. voting n. 
+4826. vow v. 
+4827. vulnerability n. 
+4828. vulnerable adj. 
+4829. wage n. 
+4830. wait v. , n. 
+4831. waiter n. 
+4832. wake v. 
+4833. walk v., n. 
+4834. wall n. 
+4835. wander v. 
+4836. want v. 
+4837. war n. 
+4838. ward n. 
+4839. warehouse n. 
+4840. warfare n. 
+4841. warm adj. , v. 
+4842. warming n. 
+4843. warn v. 
+4844. warning n. 
+4845. warrant n., v. 
+4846. warrior n. 
+4847. wash v. , n. 
+4848. washing n. 
+4849. waste n., v., adj. 
+4850. watch v., n. 
+4851. water n. , v. 
+4852. wave n. , v. 
+4853. way n. , adv. 
+4854. we pron. 
+4855. weak adj. 
+4856. weaken v. 
+4857. weakness n. 
+4858. wealth n. 
+4859. wealthy adj. 
+4860. weapon n. 
+4861. wear v. 
+4862. weather n. 
+4863. weave v. 
+4864. web n. 
+4865. website n. 
+4866. wedding n. 
+4867. Wednesday n. 
+4868. weed n. 
+4869. week n. 
+4870. weekend n. 
+4871. weekly adj. 
+4872. weigh v. 
+4873. weight n. 
+4874. weird adj. 
+4875. welcome exclam., v., adj. , n. 
+4876. welfare n. 
+4877. well adv., adj., exclam. 
+4878. well n. 
+4879. well-being n. 
+4880. west n., adj., adv. 
+4881. western adj. 
+4882. wet adj. 
+4883. what pron./det. 
+4884. whatever det./pron. 
+4885. whatsoever adv. 
+4886. wheat n. 
+4887. wheel n. 
+4888. when adv., pron., conj. 
+4889. whenever conj. 
+4890. where adv., conj. 
+4891. whereas conj. 
+4892. whereby adv. 
+4893. wherever conj. 
+4894. whether conj. 
+4895. which pron./det. 
+4896. while conj. , n. 
+4897. whip v. 
+4898. whisper v., n. 
+4899. white adj., n. 
+4900. who pron. 
+4901. whoever pron. 
+4902. whole adj. , n. 
+4903. wholly adv. 
+4904. whom pron. 
+4905. whose det./pron. 
+4906. why adv. 
+4907. wide adj. 
+4908. widely adv. 
+4909. widen v. 
+4910. widespread adj. 
+4911. widow n. 
+4912. width n. 
+4913. wife n. 
+4914. wild adj. 
+4915. wildlife n. 
+4916. will modal v. , n. 
+4917. willing adj. 
+4918. willingness n. 
+4919. win v. , n. 
+4920. wind1 n. 
+4921. wind2 v. 
+4922. window n. 
+4923. wine n. 
+4924. wing n. 
+4925. winner n. 
+4926. winter n. 
+4927. wipe v. 
+4928. wire n. 
+4929. wisdom n. 
+4930. wise adj. 
+4931. wish v., n. 
+4932. wit n. 
+4933. with prep. 
+4934. withdraw v. 
+4935. withdrawal n. 
+4936. within prep. 
+4937. without prep. 
+4938. witness n., v. 
+4939. wolf n. 
+4940. woman n. 
+4941. wonder v., n. 
+4942. wonderful adj. 
+4943. wood n. 
+4944. wooden adj. 
+4945. wool n. 
+4946. word n. 
+4947. work v., n. 
+4948. worker n. 
+4949. workforce n. 
+4950. working adj. 
+4951. workout n. 
+4952. workplace n. 
+4953. workshop n. 
+4954. world n. 
+4955. worldwide adj., adv. 
+4956. worm n. 
+4957. worried adj. 
+4958. worry v. , n. 
+4959. worse adj. , adv. , n. 
+4960. worship n., v. 
+4961. worst adj. , adv. , n. 
+4962. worth adj. , n. 
+4963. worthwhile adj. 
+4964. worthy adj. 
+4965. would modal v. 
+4966. wound n., v. 
+4967. wow exclam. 
+4968. wrap v. 
+4969. wrist n.
+4970. write v. 
+4971. writer n. 
+4972. writing n. 
+4973. written adj. 
+4974. wrong adj. , adv. , n. 
+4975. yard n. 
+4976. yeah exclam. 
+4977. year n. 
+4978. yell v. 
+4979. yellow adj., n. 
+4980. yes exclam. 
+4981. yesterday adv., n. 
+4982. yet adv. , conj. 
+4983. yield n., v. 
+4984. you pron. 
+4985. young adj. , n. 
+4986. your det. 
+4987. yours pron. 
+4988. yourself pron. 
+4989. youth n. 
+4990. zero number 
+4991. zone n. 
